@@ -3,7 +3,7 @@
     "accountInfo": {
       "email": "mayank18231@gmail.com",
       "study": "first",
-      "extractedAt": "2025-08-06T12:19:41.547Z"
+      "extractedAt": "2025-08-25T11:40:55.920Z"
     },
     "summary": {
       "user": "Mayank",
@@ -11,38 +11,38 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 710,
-      "best": 712,
+      "overall": 971,
+      "best": 971,
       "byArea": {
         "flexibility": {
-          "current": 872,
+          "current": 1034,
           "first": 417,
-          "best": 872
+          "best": 1039
         },
         "attention": {
-          "current": 510,
+          "current": 900,
           "first": 419,
-          "best": 521
+          "best": 901
         },
         "memory": {
-          "current": 879,
+          "current": 931,
           "first": 811,
-          "best": 882
+          "best": 952
         },
         "speed": {
-          "current": 733,
+          "current": 1088,
           "first": 1031,
-          "best": 1031
+          "best": 1125
         },
         "problem-solving": {
-          "current": 264,
+          "current": 865,
           "first": 264,
-          "best": 264
+          "best": 865
         },
         "math": {
-          "current": 641,
+          "current": 1086,
           "first": 641,
-          "best": 641
+          "best": 1086
         }
       }
     },
@@ -50,75 +50,75 @@
       "topGames": [
         {
           "rank": 1,
-          "game": "space-trace",
-          "area": "flexibility",
-          "lpi": 1457
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1634
         },
         {
           "rank": 2,
-          "game": "memory-matrix",
-          "area": "memory",
-          "lpi": 1205
+          "game": "space-trace",
+          "area": "flexibility",
+          "lpi": 1594
         },
         {
           "rank": 3,
-          "game": "highway-hazards",
-          "area": "speed",
-          "lpi": 1031
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1574
         },
         {
           "rank": 4,
-          "game": "tidal-treasures",
-          "area": "memory",
-          "lpi": 883
+          "game": "lost-in-migration",
+          "area": "attention",
+          "lpi": 1374
         },
         {
           "rank": 5,
-          "game": "speed-match",
-          "area": "speed",
-          "lpi": 680
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1201
         }
       ],
       "mostImproved": [
         {
           "rank": 1,
-          "game": "memory-matrix",
-          "area": "memory",
-          "improvement": 394
+          "game": "lost-in-migration",
+          "area": "attention",
+          "improvement": 807
         },
         {
           "rank": 2,
-          "game": "splitting-seeds",
+          "game": "highway-hazards",
           "area": "speed",
-          "improvement": 311
+          "improvement": 603
         },
         {
           "rank": 3,
-          "game": "familiar-faces",
-          "area": "memory",
-          "improvement": 283
+          "game": "masterpiece",
+          "area": "problem-solving",
+          "improvement": 503
         }
       ]
     },
     "streaks": {
       "current": 1,
-      "best": 2,
-      "total": 3
+      "best": 6,
+      "total": 7
     },
     "percentiles": {
-      "flexibility": "43%",
-      "attention": "12.1%",
-      "memory": "35.1%",
-      "speed": "29.5%",
-      "problem-solving": "5.4%",
-      "math": "30.9%"
+      "flexibility": "56.7%",
+      "attention": "40.8%",
+      "memory": "40.1%",
+      "speed": "58.2%",
+      "problem-solving": "57.3%",
+      "math": "61.8%"
     }
   },
   {
     "accountInfo": {
       "email": "mgopatir@gmail.com",
       "study": "first",
-      "extractedAt": "2025-08-06T12:19:42.150Z"
+      "extractedAt": "2025-08-25T11:40:55.461Z"
     },
     "summary": {
       "user": "Mudiraj Gopatir",
@@ -126,33 +126,33 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 555,
-      "best": 573,
+      "overall": 897,
+      "best": 897,
       "byArea": {
         "flexibility": {
-          "current": 512,
+          "current": 995,
           "first": 339,
-          "best": 605
+          "best": 995
         },
         "attention": {
-          "current": 360,
+          "current": 604,
           "first": 249,
-          "best": 374
+          "best": 604
         },
         "memory": {
-          "current": 956,
+          "current": 993,
           "first": 1386,
           "best": 1649
         },
         "speed": {
-          "current": 736,
+          "current": 1148,
           "first": 708,
-          "best": 736
+          "best": 1148
         },
         "problem-solving": {
-          "current": 200,
+          "current": 261,
           "first": 200,
-          "best": 200
+          "best": 261
         }
       }
     },
@@ -160,74 +160,74 @@
       "topGames": [
         {
           "rank": 1,
-          "game": "memory-matrix",
-          "area": "memory",
-          "lpi": 1388
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1503
         },
         {
           "rank": 2,
-          "game": "highway-hazards",
-          "area": "speed",
-          "lpi": 1089
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1448
         },
         {
           "rank": 3,
-          "game": "color-match",
+          "game": "space-trace",
           "area": "flexibility",
-          "lpi": 592
+          "lpi": 1379
         },
         {
           "rank": 4,
-          "game": "skyrise",
+          "game": "lost-in-migration",
           "area": "attention",
-          "lpi": 533
+          "lpi": 943
         },
         {
           "rank": 5,
-          "game": "space-trace",
-          "area": "flexibility",
-          "lpi": 382
+          "game": "speed-pack",
+          "area": "speed",
+          "lpi": 871
         }
       ],
       "mostImproved": [
         {
           "rank": 1,
-          "game": "highway-hazards",
-          "area": "speed",
-          "improvement": 381
+          "game": "space-trace",
+          "area": "flexibility",
+          "improvement": 997
         },
         {
           "rank": 2,
-          "game": "color-match",
-          "area": "flexibility",
-          "improvement": 253
+          "game": "highway-hazards",
+          "area": "speed",
+          "improvement": 795
         },
         {
           "rank": 3,
-          "game": "memory-matrix",
-          "area": "memory",
-          "improvement": 2
+          "game": "speed-pack",
+          "area": "speed",
+          "improvement": 518
         }
       ]
     },
     "streaks": {
       "current": 3,
-      "best": 3,
-      "total": 2
+      "best": 5,
+      "total": 5
     },
     "percentiles": {
-      "flexibility": "13.2%",
-      "attention": "4.9%",
-      "memory": "42.6%",
-      "speed": "29.7%",
-      "problem-solving": "1%"
+      "flexibility": "53.5%",
+      "attention": "17.8%",
+      "memory": "46.2%",
+      "speed": "63.2%",
+      "problem-solving": "5.2%"
     }
   },
   {
     "accountInfo": {
       "email": "Shreyanreddyk09@gmail.com",
       "study": "first",
-      "extractedAt": "2025-08-06T12:19:41.603Z"
+      "extractedAt": "2025-08-25T11:40:56.151Z"
     },
     "summary": {
       "user": "Shreyan Reddy",
@@ -235,38 +235,38 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 689,
-      "best": 689,
+      "overall": 859,
+      "best": 864,
       "byArea": {
         "flexibility": {
-          "current": 489,
+          "current": 677,
           "first": 410,
-          "best": 511
+          "best": 677
         },
         "attention": {
-          "current": 621,
+          "current": 760,
           "first": 439,
-          "best": 756
+          "best": 806
         },
         "memory": {
-          "current": 887,
+          "current": 828,
           "first": 995,
           "best": 995
         },
         "speed": {
-          "current": 1102,
+          "current": 1087,
           "first": 610,
-          "best": 1102
+          "best": 1141
         },
         "problem-solving": {
-          "current": 574,
+          "current": 1111,
           "first": 339,
-          "best": 574
+          "best": 1111
         },
         "math": {
-          "current": 230,
+          "current": 386,
           "first": 230,
-          "best": 230
+          "best": 386
         }
       }
     },
@@ -276,31 +276,31 @@
           "rank": 1,
           "game": "highway-hazards",
           "area": "speed",
-          "lpi": 1636
+          "lpi": 1688
         },
         {
           "rank": 2,
-          "game": "memory-matrix",
-          "area": "memory",
-          "lpi": 1131
+          "game": "pet-detective",
+          "area": "problem-solving",
+          "lpi": 1336
         },
         {
           "rank": 3,
-          "game": "masterpiece",
-          "area": "problem-solving",
-          "lpi": 750
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1160
         },
         {
           "rank": 4,
-          "game": "train-of-thought",
+          "game": "lost-in-migration",
           "area": "attention",
-          "lpi": 737
+          "lpi": 985
         },
         {
           "rank": 5,
-          "game": "tidal-treasures",
-          "area": "memory",
-          "lpi": 697
+          "game": "eagle-eye",
+          "area": "attention",
+          "lpi": 929
         }
       ],
       "mostImproved": [
@@ -308,41 +308,41 @@
           "rank": 1,
           "game": "highway-hazards",
           "area": "speed",
-          "improvement": 1026
+          "improvement": 1078
         },
         {
           "rank": 2,
-          "game": "tidal-treasures",
-          "area": "memory",
-          "improvement": 424
+          "game": "pet-detective",
+          "area": "problem-solving",
+          "improvement": 997
         },
         {
           "rank": 3,
-          "game": "skyrise",
+          "game": "eagle-eye",
           "area": "attention",
-          "improvement": 328
+          "improvement": 705
         }
       ]
     },
     "streaks": {
-      "current": 3,
-      "best": 3,
-      "total": 2
+      "current": 2,
+      "best": 11,
+      "total": 4
     },
     "percentiles": {
-      "flexibility": "11.7%",
-      "attention": "18.9%",
-      "memory": "35.9%",
-      "speed": "59.3%",
-      "problem-solving": "32.8%",
-      "math": "2.4%"
+      "flexibility": "26.3%",
+      "attention": "29.2%",
+      "memory": "30.6%",
+      "speed": "58.1%",
+      "problem-solving": "75.1%",
+      "math": "13.4%"
     }
   },
   {
     "accountInfo": {
       "email": "addykr113@gmail.com",
       "study": "first",
-      "extractedAt": "2025-08-06T12:19:41.782Z"
+      "extractedAt": "2025-08-25T11:40:56.301Z"
     },
     "summary": {
       "user": "K R ADITI ",
@@ -350,38 +350,38 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 667,
-      "best": 667,
+      "overall": 841,
+      "best": 887,
       "byArea": {
         "flexibility": {
-          "current": 341,
+          "current": 436,
           "first": 343,
-          "best": 343
+          "best": 436
         },
         "attention": {
-          "current": 668,
+          "current": 879,
           "first": 227,
-          "best": 668
+          "best": 1013
         },
         "memory": {
-          "current": 886,
+          "current": 975,
           "first": 353,
-          "best": 970
+          "best": 992
         },
         "speed": {
-          "current": 847,
+          "current": 1081,
           "first": 781,
           "best": 1101
         },
         "problem-solving": {
-          "current": 497,
+          "current": 602,
           "first": 712,
           "best": 712
         },
         "math": {
-          "current": 502,
+          "current": 1079,
           "first": 228,
-          "best": 502
+          "best": 1180
         }
       }
     },
@@ -391,73 +391,73 @@
           "rank": 1,
           "game": "highway-hazards",
           "area": "speed",
-          "lpi": 1415
+          "lpi": 1740
         },
         {
           "rank": 2,
-          "game": "tidal-treasures",
-          "area": "memory",
-          "lpi": 1356
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1536
         },
         {
           "rank": 3,
           "game": "familiar-faces",
           "area": "memory",
-          "lpi": 967
+          "lpi": 1393
         },
         {
           "rank": 4,
           "game": "lost-in-migration",
           "area": "attention",
-          "lpi": 877
+          "lpi": 1390
         },
         {
           "rank": 5,
-          "game": "masterpiece",
-          "area": "problem-solving",
-          "lpi": 712
+          "game": "eagle-eye",
+          "area": "attention",
+          "lpi": 1146
         }
       ],
       "mostImproved": [
         {
           "rank": 1,
-          "game": "highway-hazards",
-          "area": "speed",
-          "improvement": 634
+          "game": "lost-in-migration",
+          "area": "attention",
+          "improvement": 964
         },
         {
           "rank": 2,
-          "game": "lost-in-migration",
-          "area": "attention",
-          "improvement": 451
+          "game": "highway-hazards",
+          "area": "speed",
+          "improvement": 959
         },
         {
           "rank": 3,
           "game": "familiar-faces",
           "area": "memory",
-          "improvement": 440
+          "improvement": 866
         }
       ]
     },
     "streaks": {
-      "current": 3,
-      "best": 3,
-      "total": 2
+      "current": 1,
+      "best": 7,
+      "total": 5
     },
     "percentiles": {
-      "flexibility": "3.7%",
-      "attention": "22.3%",
-      "memory": "35.8%",
-      "speed": "38.4%",
-      "problem-solving": "26.1%",
-      "math": "21.3%"
+      "flexibility": "8.3%",
+      "attention": "39%",
+      "memory": "44.4%",
+      "speed": "57.6%",
+      "problem-solving": "35.3%",
+      "math": "61.3%"
     }
   },
   {
     "accountInfo": {
       "email": "Vakadheeren95@gmail.com",
       "study": "first",
-      "extractedAt": "2025-08-06T12:19:55.732Z"
+      "extractedAt": "2025-08-25T11:41:09.415Z"
     },
     "summary": {
       "user": "Vaka",
@@ -465,36 +465,36 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 727,
-      "best": 750,
+      "overall": 1046,
+      "best": 1047,
       "byArea": {
         "flexibility": {
-          "current": 766,
+          "current": 1084,
           "first": 274,
-          "best": 766
+          "best": 1094
         },
         "attention": {
-          "current": 534,
+          "current": 890,
           "first": 348,
-          "best": 534
+          "best": 959
         },
         "memory": {
-          "current": 882,
+          "current": 937,
           "first": 1177,
           "best": 1177
         },
         "speed": {
-          "current": 895,
+          "current": 1029,
           "first": 778,
           "best": 1052
         },
         "problem-solving": {
-          "current": 209,
+          "current": 1076,
           "first": 209,
-          "best": 209
+          "best": 1076
         },
         "math": {
-          "current": 870,
+          "current": 792,
           "first": 543,
           "best": 870
         }
@@ -504,75 +504,75 @@
       "topGames": [
         {
           "rank": 1,
-          "game": "robot-factory",
-          "area": "flexibility",
-          "lpi": 1539
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1845
         },
         {
           "rank": 2,
-          "game": "highway-hazards",
-          "area": "speed",
-          "lpi": 1505
+          "game": "robot-factory",
+          "area": "flexibility",
+          "lpi": 1784
         },
         {
           "rank": 3,
-          "game": "top-that",
-          "area": "math",
-          "lpi": 1363
+          "game": "masterpiece",
+          "area": "problem-solving",
+          "lpi": 1608
         },
         {
           "rank": 4,
-          "game": "memory-matrix",
-          "area": "memory",
-          "lpi": 1155
+          "game": "top-that",
+          "area": "math",
+          "lpi": 1599
         },
         {
           "rank": 5,
-          "game": "familiar-faces",
-          "area": "memory",
-          "lpi": 921
+          "game": "lost-in-migration",
+          "area": "attention",
+          "lpi": 1419
         }
       ],
       "mostImproved": [
         {
           "rank": 1,
-          "game": "highway-hazards",
-          "area": "speed",
-          "improvement": 727
+          "game": "masterpiece",
+          "area": "problem-solving",
+          "improvement": 1104
         },
         {
           "rank": 2,
-          "game": "robot-factory",
-          "area": "flexibility",
-          "improvement": 497
+          "game": "highway-hazards",
+          "area": "speed",
+          "improvement": 1067
         },
         {
           "rank": 3,
-          "game": "familiar-faces",
-          "area": "memory",
-          "improvement": 410
+          "game": "robot-factory",
+          "area": "flexibility",
+          "improvement": 742
         }
       ]
     },
     "streaks": {
-      "current": 3,
-      "best": 3,
-      "total": 2
+      "current": 10,
+      "best": 10,
+      "total": 4
     },
     "percentiles": {
-      "flexibility": "33.9%",
-      "attention": "13.5%",
-      "memory": "35.4%",
-      "speed": "42.3%",
-      "problem-solving": "1%",
-      "math": "47.1%"
+      "flexibility": "60.8%",
+      "attention": "39.9%",
+      "memory": "40.8%",
+      "speed": "53.3%",
+      "problem-solving": "72.7%",
+      "math": "41.7%"
     }
   },
   {
     "accountInfo": {
       "email": "jayasravan29@gmail.com",
       "study": "first",
-      "extractedAt": "2025-08-06T12:19:55.601Z"
+      "extractedAt": "2025-08-25T11:41:09.320Z"
     },
     "summary": {
       "user": "Sravan",
@@ -580,38 +580,38 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 680,
-      "best": 765,
+      "overall": 1039,
+      "best": 1039,
       "byArea": {
         "flexibility": {
-          "current": 777,
+          "current": 957,
           "first": 707,
-          "best": 777
+          "best": 957
         },
         "attention": {
-          "current": 780,
+          "current": 1044,
           "first": 537,
-          "best": 804
+          "best": 1044
         },
         "memory": {
-          "current": 699,
+          "current": 920,
           "first": 1220,
           "best": 1220
         },
         "problem-solving": {
-          "current": 368,
+          "current": 990,
           "first": 258,
-          "best": 368
+          "best": 1036
         },
         "speed": {
-          "current": 541,
+          "current": 1247,
           "first": 568,
-          "best": 650
+          "best": 1247
         },
         "math": {
-          "current": 709,
+          "current": 967,
           "first": 760,
-          "best": 760
+          "best": 1048
         }
       }
     },
@@ -619,68 +619,1448 @@
       "topGames": [
         {
           "rank": 1,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1798
+        },
+        {
+          "rank": 2,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1611
+        },
+        {
+          "rank": 3,
           "game": "memory-matrix",
           "area": "memory",
           "lpi": 1534
         },
         {
-          "rank": 2,
-          "game": "trouble-brewing",
-          "area": "attention",
-          "lpi": 1146
-        },
-        {
-          "rank": 3,
-          "game": "color-match",
-          "area": "flexibility",
-          "lpi": 952
-        },
-        {
           "rank": 4,
-          "game": "highway-hazards",
-          "area": "speed",
-          "lpi": 824
+          "game": "robot-factory",
+          "area": "flexibility",
+          "lpi": 1480
         },
         {
           "rank": 5,
-          "game": "halve-your-cake",
-          "area": "math",
-          "lpi": 760
+          "game": "pirate-passage",
+          "area": "problem-solving",
+          "lpi": 1469
         }
       ],
       "mostImproved": [
         {
           "rank": 1,
-          "game": "trouble-brewing",
+          "game": "highway-hazards",
+          "area": "speed",
+          "improvement": 856
+        },
+        {
+          "rank": 2,
+          "game": "skyrise",
           "area": "attention",
-          "improvement": 535
+          "improvement": 690
+        },
+        {
+          "rank": 3,
+          "game": "pirate-passage",
+          "area": "problem-solving",
+          "improvement": 645
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 6,
+      "total": 6
+    },
+    "percentiles": {
+      "flexibility": "50.3%",
+      "attention": "54.3%",
+      "memory": "39.1%",
+      "problem-solving": "66.8%",
+      "speed": "71.3%",
+      "math": "53.7%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "bandisaivarnith@iacg.edu.in",
+      "study": "first",
+      "extractedAt": "2025-08-25T11:41:09.566Z"
+    },
+    "summary": {
+      "user": "Bandi Sai Varnith",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1148,
+      "best": 1182,
+      "byArea": {
+        "flexibility": {
+          "current": 991,
+          "first": 836,
+          "best": 991
+        },
+        "attention": {
+          "current": 1155,
+          "first": 509,
+          "best": 1339
+        },
+        "memory": {
+          "current": 1074,
+          "first": 1389,
+          "best": 1389
+        },
+        "speed": {
+          "current": 1279,
+          "first": 1135,
+          "best": 1685
+        },
+        "problem-solving": {
+          "current": 1242,
+          "first": 636,
+          "best": 1242
+        },
+        "math": {
+          "current": 739,
+          "first": 600,
+          "best": 739
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1800
         },
         {
           "rank": 2,
           "game": "memory-matrix",
           "area": "memory",
-          "improvement": 314
+          "lpi": 1481
+        },
+        {
+          "rank": 3,
+          "game": "train-of-thought",
+          "area": "attention",
+          "lpi": 1314
+        },
+        {
+          "rank": 4,
+          "game": "masterpiece",
+          "area": "problem-solving",
+          "lpi": 1242
+        },
+        {
+          "rank": 5,
+          "game": "eagle-eye",
+          "area": "attention",
+          "lpi": 1189
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "train-of-thought",
+          "area": "attention",
+          "improvement": 805
+        },
+        {
+          "rank": 2,
+          "game": "highway-hazards",
+          "area": "speed",
+          "improvement": 665
+        },
+        {
+          "rank": 3,
+          "game": "skyrise",
+          "area": "attention",
+          "improvement": 607
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 14,
+      "total": 3
+    },
+    "percentiles": {
+      "flexibility": "53.2%",
+      "attention": "64.9%",
+      "memory": "54.3%",
+      "speed": "73.9%",
+      "problem-solving": "83.1%",
+      "math": "38%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "karthikeyad136@gmail.com",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:09.318Z"
+    },
+    "summary": {
+      "user": "Karthikeya",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 977,
+      "best": 1050,
+      "byArea": {
+        "flexibility": {
+          "current": 1025,
+          "first": 227,
+          "best": 1173
+        },
+        "attention": {
+          "current": 789,
+          "first": 396,
+          "best": 789
+        },
+        "memory": {
+          "current": 621,
+          "first": 757,
+          "best": 757
+        },
+        "speed": {
+          "current": 1138,
+          "first": 235,
+          "best": 1331
+        },
+        "problem-solving": {
+          "current": 1026,
+          "first": 267,
+          "best": 1321
+        },
+        "math": {
+          "current": 586,
+          "first": 298,
+          "best": 883
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "top-that",
+          "area": "math",
+          "lpi": 1636
+        },
+        {
+          "rank": 2,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1537
+        },
+        {
+          "rank": 3,
+          "game": "fuse-clues",
+          "area": "problem-solving",
+          "lpi": 1523
+        },
+        {
+          "rank": 4,
+          "game": "space-trace",
+          "area": "flexibility",
+          "lpi": 1517
+        },
+        {
+          "rank": 5,
+          "game": "disillusion",
+          "area": "flexibility",
+          "lpi": 1406
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "fuse-clues",
+          "area": "problem-solving",
+          "improvement": 1312
+        },
+        {
+          "rank": 2,
+          "game": "pirate-passage",
+          "area": "problem-solving",
+          "improvement": 846
+        },
+        {
+          "rank": 3,
+          "game": "speed-pack",
+          "area": "speed",
+          "improvement": 829
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 3,
+      "total": 11
+    },
+    "percentiles": {
+      "flexibility": "55.9%",
+      "attention": "31.5%",
+      "memory": "14.8%",
+      "speed": "62.4%",
+      "problem-solving": "69.3%",
+      "math": "27.1%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "adarshgaikwad0728@gmail.com",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:22.634Z"
+    },
+    "summary": {
+      "user": "Adarsh",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1045,
+      "best": 1066,
+      "byArea": {
+        "flexibility": {
+          "current": 990,
+          "first": 467,
+          "best": 1233
+        },
+        "attention": {
+          "current": 974,
+          "first": 439,
+          "best": 1200
+        },
+        "memory": {
+          "current": 790,
+          "first": 1311,
+          "best": 1311
+        },
+        "speed": {
+          "current": 1451,
+          "first": 700,
+          "best": 1451
+        },
+        "problem-solving": {
+          "current": 1077,
+          "first": 215,
+          "best": 1302
+        },
+        "math": {
+          "current": 1028,
+          "first": 1073,
+          "best": 1556
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1767
+        },
+        {
+          "rank": 2,
+          "game": "splitting-seeds",
+          "area": "speed",
+          "lpi": 1635
+        },
+        {
+          "rank": 3,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1556
+        },
+        {
+          "rank": 4,
+          "game": "robot-factory",
+          "area": "flexibility",
+          "lpi": 1402
+        },
+        {
+          "rank": 5,
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1311
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "splitting-seeds",
+          "area": "speed",
+          "improvement": 1201
+        },
+        {
+          "rank": 2,
+          "game": "pet-detective",
+          "area": "problem-solving",
+          "improvement": 1035
+        },
+        {
+          "rank": 3,
+          "game": "assist-ants",
+          "area": "attention",
+          "improvement": 927
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 5,
+      "total": 14
+    },
+    "percentiles": {
+      "flexibility": "53.1%",
+      "attention": "47.6%",
+      "memory": "27.3%",
+      "speed": "86.7%",
+      "problem-solving": "72.8%",
+      "math": "57.8%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "srisaikarthik@iacg.info",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:22.451Z"
+    },
+    "summary": {
+      "user": "SATHAVALLI SRI SAI KARTHIK",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 869,
+      "best": 960,
+      "byArea": {
+        "flexibility": {
+          "current": 842,
+          "first": 233,
+          "best": 895
+        },
+        "attention": {
+          "current": 639,
+          "first": 396,
+          "best": 853
+        },
+        "memory": {
+          "current": 736,
+          "first": 243,
+          "best": 736
+        },
+        "problem-solving": {
+          "current": 1184,
+          "first": 200,
+          "best": 1186
+        },
+        "speed": {
+          "current": 982,
+          "first": 346,
+          "best": 1046
+        },
+        "math": {
+          "current": 1276,
+          "first": 445,
+          "best": 1423
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1754
+        },
+        {
+          "rank": 2,
+          "game": "fuse-clues",
+          "area": "problem-solving",
+          "lpi": 1662
+        },
+        {
+          "rank": 3,
+          "game": "top-that",
+          "area": "math",
+          "lpi": 1532
+        },
+        {
+          "rank": 4,
+          "game": "pirate-passage",
+          "area": "problem-solving",
+          "lpi": 1340
+        },
+        {
+          "rank": 5,
+          "game": "robot-factory",
+          "area": "flexibility",
+          "lpi": 1205
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "fuse-clues",
+          "area": "problem-solving",
+          "improvement": 1356
+        },
+        {
+          "rank": 2,
+          "game": "pirate-passage",
+          "area": "problem-solving",
+          "improvement": 1120
+        },
+        {
+          "rank": 3,
+          "game": "memory-matrix",
+          "area": "memory",
+          "improvement": 937
+        }
+      ]
+    },
+    "streaks": {
+      "current": 6,
+      "best": 6,
+      "total": 7
+    },
+    "percentiles": {
+      "flexibility": "40.4%",
+      "attention": "20.2%",
+      "memory": "22.9%",
+      "problem-solving": "79.7%",
+      "speed": "49.3%",
+      "math": "73.7%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "johnabhishay@gmail.com",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:22.568Z"
+    },
+    "summary": {
+      "user": "John",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 945,
+      "best": 1006,
+      "byArea": {
+        "flexibility": {
+          "current": 857,
+          "first": 340,
+          "best": 891
+        },
+        "attention": {
+          "current": 930,
+          "first": 419,
+          "best": 1049
+        },
+        "memory": {
+          "current": 798,
+          "first": 460,
+          "best": 822
+        },
+        "speed": {
+          "current": 1179,
+          "first": 225,
+          "best": 1492
+        },
+        "problem-solving": {
+          "current": 975,
+          "first": 211,
+          "best": 975
+        },
+        "math": {
+          "current": 940,
+          "first": 228,
+          "best": 1030
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "assist-ants",
+          "area": "attention",
+          "lpi": 1740
+        },
+        {
+          "rank": 2,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1686
+        },
+        {
+          "rank": 3,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1489
+        },
+        {
+          "rank": 4,
+          "game": "splitting-seeds",
+          "area": "speed",
+          "lpi": 1436
+        },
+        {
+          "rank": 5,
+          "game": "masterpiece",
+          "area": "problem-solving",
+          "lpi": 1390
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "assist-ants",
+          "area": "attention",
+          "improvement": 1475
+        },
+        {
+          "rank": 2,
+          "game": "memory-matrix",
+          "area": "memory",
+          "improvement": 893
+        },
+        {
+          "rank": 3,
+          "game": "highway-hazards",
+          "area": "speed",
+          "improvement": 851
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 5,
+      "total": 10
+    },
+    "percentiles": {
+      "flexibility": "41.7%",
+      "attention": "43.4%",
+      "memory": "27.9%",
+      "speed": "65.8%",
+      "problem-solving": "65.6%",
+      "math": "51.9%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "gmaneeshrao@iacg.info",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:22.302Z"
+    },
+    "summary": {
+      "user": "GOURAVARAM MANEESH RAO",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1051,
+      "best": 1100,
+      "byArea": {
+        "flexibility": {
+          "current": 787,
+          "first": 857,
+          "best": 857
+        },
+        "attention": {
+          "current": 959,
+          "first": 396,
+          "best": 1255
+        },
+        "memory": {
+          "current": 1083,
+          "first": 1048,
+          "best": 1170
+        },
+        "speed": {
+          "current": 1238,
+          "first": 1050,
+          "best": 1496
+        },
+        "problem-solving": {
+          "current": 577,
+          "first": 335,
+          "best": 597
+        },
+        "math": {
+          "current": 750,
+          "first": 723,
+          "best": 750
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1697
+        },
+        {
+          "rank": 2,
+          "game": "tidal-treasures",
+          "area": "memory",
+          "lpi": 1416
+        },
+        {
+          "rank": 3,
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1312
+        },
+        {
+          "rank": 4,
+          "game": "top-that",
+          "area": "math",
+          "lpi": 1263
+        },
+        {
+          "rank": 5,
+          "game": "pinball-recall",
+          "area": "memory",
+          "lpi": 1238
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "tidal-treasures",
+          "area": "memory",
+          "improvement": 1118
+        },
+        {
+          "rank": 2,
+          "game": "pinball-recall",
+          "area": "memory",
+          "improvement": 920
+        },
+        {
+          "rank": 3,
+          "game": "memory-serves",
+          "area": "memory",
+          "improvement": 815
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 4,
+      "total": 9
+    },
+    "percentiles": {
+      "flexibility": "35.8%",
+      "attention": "46.1%",
+      "memory": "55.2%",
+      "speed": "70.6%",
+      "problem-solving": "33.1%",
+      "math": "38.7%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "syedarman@iacg.info",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:34.351Z"
+    },
+    "summary": {
+      "user": "SYED ARMAN",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1357,
+      "best": 1357,
+      "byArea": {
+        "flexibility": {
+          "current": 1422,
+          "first": 471,
+          "best": 1422
+        },
+        "attention": {
+          "current": 1472,
+          "first": 439,
+          "best": 1664
+        },
+        "memory": {
+          "current": 1156,
+          "first": 1386,
+          "best": 1386
+        },
+        "problem-solving": {
+          "current": 1239,
+          "first": 271,
+          "best": 1239
+        },
+        "speed": {
+          "current": 1294,
+          "first": 355,
+          "best": 1326
+        },
+        "math": {
+          "current": 1180,
+          "first": 318,
+          "best": 1180
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1840
+        },
+        {
+          "rank": 2,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1796
+        },
+        {
+          "rank": 3,
+          "game": "ebb-and-flow",
+          "area": "flexibility",
+          "lpi": 1760
+        },
+        {
+          "rank": 4,
+          "game": "train-of-thought",
+          "area": "attention",
+          "lpi": 1619
+        },
+        {
+          "rank": 5,
+          "game": "robot-factory",
+          "area": "flexibility",
+          "lpi": 1583
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "pet-detective",
+          "area": "problem-solving",
+          "improvement": 1294
+        },
+        {
+          "rank": 2,
+          "game": "train-of-thought",
+          "area": "attention",
+          "improvement": 1180
+        },
+        {
+          "rank": 3,
+          "game": "ebb-and-flow",
+          "area": "flexibility",
+          "improvement": 1091
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 12,
+      "total": 12
+    },
+    "percentiles": {
+      "flexibility": "85.2%",
+      "attention": "90.8%",
+      "memory": "62.3%",
+      "problem-solving": "82.9%",
+      "speed": "75.1%",
+      "math": "67.7%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "stanushraj2@gmail.com",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:34.335Z"
+    },
+    "summary": {
+      "user": "S. Tanush",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1086,
+      "best": 1110,
+      "byArea": {
+        "flexibility": {
+          "current": 1050,
+          "first": 466,
+          "best": 1129
+        },
+        "attention": {
+          "current": 985,
+          "first": 537,
+          "best": 1047
+        },
+        "memory": {
+          "current": 1140,
+          "first": 1240,
+          "best": 1240
+        },
+        "speed": {
+          "current": 1436,
+          "first": 989,
+          "best": 1501
+        },
+        "problem-solving": {
+          "current": 904,
+          "first": 394,
+          "best": 904
+        },
+        "math": {
+          "current": 1391,
+          "first": 353,
+          "best": 1396
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1804
+        },
+        {
+          "rank": 2,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1731
+        },
+        {
+          "rank": 3,
+          "game": "top-that",
+          "area": "math",
+          "lpi": 1584
+        },
+        {
+          "rank": 4,
+          "game": "river-ranger",
+          "area": "speed",
+          "lpi": 1489
+        },
+        {
+          "rank": 5,
+          "game": "memory-serves",
+          "area": "memory",
+          "lpi": 1439
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "memory-serves",
+          "area": "memory",
+          "improvement": 1239
+        },
+        {
+          "rank": 2,
+          "game": "river-ranger",
+          "area": "speed",
+          "improvement": 1051
+        },
+        {
+          "rank": 3,
+          "game": "pet-detective",
+          "area": "problem-solving",
+          "improvement": 1027
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 6,
+      "total": 15
+    },
+    "percentiles": {
+      "flexibility": "58%",
+      "attention": "48.6%",
+      "memory": "60.7%",
+      "speed": "85.7%",
+      "problem-solving": "60.3%",
+      "math": "80.3%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "Bkeerthipriya@iacg.info",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:34.672Z"
+    },
+    "summary": {
+      "user": "BHUCHAKRA KEERTHI PRIYA",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 991,
+      "best": 1020,
+      "byArea": {
+        "flexibility": {
+          "current": 1183,
+          "first": 337,
+          "best": 1251
+        },
+        "attention": {
+          "current": 845,
+          "first": 304,
+          "best": 961
+        },
+        "memory": {
+          "current": 1175,
+          "first": 1448,
+          "best": 1448
+        },
+        "speed": {
+          "current": 957,
+          "first": 408,
+          "best": 974
+        },
+        "problem-solving": {
+          "current": 680,
+          "first": 216,
+          "best": 736
+        },
+        "math": {
+          "current": 762,
+          "first": 266,
+          "best": 762
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "space-trace",
+          "area": "flexibility",
+          "lpi": 1831
+        },
+        {
+          "rank": 2,
+          "game": "robot-factory",
+          "area": "flexibility",
+          "lpi": 1564
+        },
+        {
+          "rank": 3,
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1557
+        },
+        {
+          "rank": 4,
+          "game": "pinball-recall",
+          "area": "memory",
+          "lpi": 1457
+        },
+        {
+          "rank": 5,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1387
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "pinball-recall",
+          "area": "memory",
+          "improvement": 844
+        },
+        {
+          "rank": 2,
+          "game": "river-ranger",
+          "area": "speed",
+          "improvement": 790
+        },
+        {
+          "rank": 3,
+          "game": "memory-match",
+          "area": "memory",
+          "improvement": 732
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 5,
+      "total": 12
+    },
+    "percentiles": {
+      "flexibility": "68.6%",
+      "attention": "36.1%",
+      "memory": "64.2%",
+      "speed": "47.3%",
+      "problem-solving": "42.1%",
+      "math": "39.6%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "knagasravani@iacg.info",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:34.566Z"
+    },
+    "summary": {
+      "user": "KULKARNI NAGA SRAVANI",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1010,
+      "best": 1010,
+      "byArea": {
+        "flexibility": {
+          "current": 934,
+          "first": 950,
+          "best": 1016
+        },
+        "attention": {
+          "current": 876,
+          "first": 625,
+          "best": 1137
+        },
+        "memory": {
+          "current": 848,
+          "first": 1398,
+          "best": 1398
+        },
+        "problem-solving": {
+          "current": 974,
+          "first": 268,
+          "best": 1035
+        },
+        "speed": {
+          "current": 1195,
+          "first": 725,
+          "best": 1195
+        },
+        "math": {
+          "current": 907,
+          "first": 912,
+          "best": 913
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "pirate-passage",
+          "area": "problem-solving",
+          "lpi": 1806
+        },
+        {
+          "rank": 2,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1669
+        },
+        {
+          "rank": 3,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1494
+        },
+        {
+          "rank": 4,
+          "game": "lost-in-migration",
+          "area": "attention",
+          "lpi": 1262
+        },
+        {
+          "rank": 5,
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1248
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "pirate-passage",
+          "area": "problem-solving",
+          "improvement": 1131
+        },
+        {
+          "rank": 2,
+          "game": "skyrise",
+          "area": "attention",
+          "improvement": 773
+        },
+        {
+          "rank": 3,
+          "game": "raindrops",
+          "area": "math",
+          "improvement": 582
+        }
+      ]
+    },
+    "streaks": {
+      "current": 2,
+      "best": 5,
+      "total": 12
+    },
+    "percentiles": {
+      "flexibility": "48.3%",
+      "attention": "38.8%",
+      "memory": "32.4%",
+      "problem-solving": "65.5%",
+      "speed": "67.1%",
+      "math": "49.7%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "syedosmanhussain@iacg.info",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:46.503Z"
+    },
+    "summary": {
+      "user": "SYED OSMAN HUSSAIN",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1420,
+      "best": 1420,
+      "byArea": {
+        "flexibility": {
+          "current": 1524,
+          "first": 410,
+          "best": 1904
+        },
+        "attention": {
+          "current": 1507,
+          "first": 419,
+          "best": 1507
+        },
+        "memory": {
+          "current": 1317,
+          "first": 1333,
+          "best": 1420
+        },
+        "speed": {
+          "current": 1517,
+          "first": 825,
+          "best": 1544
+        },
+        "problem-solving": {
+          "current": 1060,
+          "first": 276,
+          "best": 1180
+        },
+        "math": {
+          "current": 1440,
+          "first": 437,
+          "best": 1440
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "lost-in-migration",
+          "area": "attention",
+          "lpi": 1866
+        },
+        {
+          "rank": 2,
+          "game": "train-of-thought",
+          "area": "attention",
+          "lpi": 1827
         },
         {
           "rank": 3,
           "game": "color-match",
           "area": "flexibility",
-          "improvement": 245
+          "lpi": 1801
+        },
+        {
+          "rank": 4,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1793
+        },
+        {
+          "rank": 5,
+          "game": "memory-matrix",
+          "area": "memory",
+          "lpi": 1758
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "lost-in-migration",
+          "area": "attention",
+          "improvement": 1450
+        },
+        {
+          "rank": 2,
+          "game": "train-of-thought",
+          "area": "attention",
+          "improvement": 1408
+        },
+        {
+          "rank": 3,
+          "game": "color-match",
+          "area": "flexibility",
+          "improvement": 1391
         }
       ]
     },
     "streaks": {
-      "current": 3,
-      "best": 3,
-      "total": 2
+      "current": 6,
+      "best": 15,
+      "total": 10
     },
     "percentiles": {
-      "flexibility": "34.9%",
-      "attention": "30.8%",
-      "memory": "20%",
-      "problem-solving": "14.7%",
-      "speed": "15.8%",
-      "math": "35.8%"
+      "flexibility": "91.3%",
+      "attention": "92.7%",
+      "memory": "77.5%",
+      "speed": "90.9%",
+      "problem-solving": "71.7%",
+      "math": "83%"
+    }
+  },
+  {
+    "accountInfo": {
+      "email": "srikarramagoni@iacg.info",
+      "study": "second",
+      "extractedAt": "2025-08-25T11:41:46.570Z"
+    },
+    "summary": {
+      "user": "SRIKAR RAMAGONI",
+      "premium": true,
+      "ageCohort": "13-19"
+    },
+    "lpi": {
+      "overall": 1073,
+      "best": 1073,
+      "byArea": {
+        "flexibility": {
+          "current": 1489,
+          "first": 748,
+          "best": 1489
+        },
+        "attention": {
+          "current": 1025,
+          "first": 562,
+          "best": 1034
+        },
+        "memory": {
+          "current": 994,
+          "first": 878,
+          "best": 1085
+        },
+        "speed": {
+          "current": 1289,
+          "first": 434,
+          "best": 1289
+        },
+        "problem-solving": {
+          "current": 541,
+          "first": 333,
+          "best": 541
+        },
+        "math": {
+          "current": 821,
+          "first": 837,
+          "best": 837
+        }
+      }
+    },
+    "rankings": {
+      "topGames": [
+        {
+          "rank": 1,
+          "game": "highway-hazards",
+          "area": "speed",
+          "lpi": 1752
+        },
+        {
+          "rank": 2,
+          "game": "robot-factory",
+          "area": "flexibility",
+          "lpi": 1743
+        },
+        {
+          "rank": 3,
+          "game": "lost-in-migration",
+          "area": "attention",
+          "lpi": 1716
+        },
+        {
+          "rank": 4,
+          "game": "speed-match",
+          "area": "speed",
+          "lpi": 1573
+        },
+        {
+          "rank": 5,
+          "game": "raindrops",
+          "area": "math",
+          "lpi": 1476
+        }
+      ],
+      "mostImproved": [
+        {
+          "rank": 1,
+          "game": "speed-match",
+          "area": "speed",
+          "improvement": 1139
+        },
+        {
+          "rank": 2,
+          "game": "memory-match",
+          "area": "memory",
+          "improvement": 861
+        },
+        {
+          "rank": 3,
+          "game": "highway-hazards",
+          "area": "speed",
+          "improvement": 685
+        }
+      ]
+    },
+    "streaks": {
+      "current": 1,
+      "best": 5,
+      "total": 16
+    },
+    "percentiles": {
+      "flexibility": "89.3%",
+      "attention": "52.5%",
+      "memory": "46.3%",
+      "speed": "74.7%",
+      "problem-solving": "30%",
+      "math": "43.8%"
     }
   }
 ]
