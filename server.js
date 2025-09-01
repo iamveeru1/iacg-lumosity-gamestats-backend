@@ -49,6 +49,33 @@ app.get('/api/results', (req, res) => {
 });
 
 
+app.get('/api/user-streaks', async (req, res) => {
+  try {
+    const { email } = req.query;
+    if (!email) {
+      return res.status(400).json({ success: false, message: 'Email is required' });
+    }
+
+    const data = await fs.readFile('./augResults.json', 'utf8');
+    const users = JSON.parse(data);
+
+    const user = users.find(u => u.accountInfo.email === email);
+
+    if (user) {
+      res.json({ success: true, data: user.streaks });
+    } else {
+      res.status(404).json({ success: false, message: 'User not found' });
+    }
+  } catch (err) {
+    console.error('Error in user-streaks:', err);
+    res.status(500).json({
+      success: false,
+      message: err.message,
+      error: err.stack
+    });
+  }
+});
+
 // Root endpoint
 app.get('/', (req, res) => {
     res.json({ message: 'Welcome to the Game Stats API' });
