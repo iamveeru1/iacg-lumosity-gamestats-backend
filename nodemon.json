@@ -1,0 +1,7 @@
+{
+  "watch": ["server.js", "runStats.js", "models/"],
+  "ext": "js",
+  "ignore": ["*.json", "node_modules/"],
+  "verbose": true,
+  "delay": "1500"
+}
