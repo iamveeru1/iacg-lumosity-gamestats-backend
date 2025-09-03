@@ -127,41 +127,28 @@ app.get('/api/results', async (req, res) => {
  */
 app.get('/api/user-streaks', async (req, res) => {
   try {
-    console.log('Reading data from results.json to save daily streaks report...');
-    const data = await fs.readFile('./results.json', 'utf8');
-    const resultsFromFile = JSON.parse(data);
-    console.log(`Successfully read ${resultsFromFile.length} user records for streak processing.`);
-
-    // Extract only the necessary streak information for each user
-    const streaksData = resultsFromFile.map(user => ({
-      email: user.accountInfo.email,
-      streaks: user.streaks,
-    })).filter(d => d.streaks); // Ensure user has streak data
-
-    if (streaksData.length === 0) {
-      return res.status(400).json({ success: false, message: 'No valid streak data found in results.json to save.'});
+    const { email } = req.query;
+    if (!email) {
+      return res.status(400).json({ success: false, message: 'Email is required' });
     }
 
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
+    const data = await fs.readFile('./augResults.json', 'utf8');
+    const users = JSON.parse(data);
 
-    // Use findOneAndUpdate with upsert to create or update today's streak report
-    const report = await DailyStreaksReport.findOneAndUpdate( // Using the new model
-      { reportDate: today },
-      {
-        $set: {
-          streaksData: streaksData,
-          userCount: streaksData.length,
-        },
-      },
-      { new: true, upsert: true }
-    );
+    const user = users.find(u => u.accountInfo.email === email);
 
-    console.log(`Successfully saved or updated daily streaks report for ${today.toDateString()}`);
-    return res.json({ success: true, message: `Daily streaks report for ${today.toDateString()} saved successfully.`, data: report});
+    if (user) {
+      res.json({ success: true, data: user.streaks });
+    } else {
+      res.status(404).json({ success: false, message: 'User not found' });
+    }
   } catch (err) {
-    console.error('Error saving daily streaks report:', err);
-    return res.status(500).json({ success: false, message: 'Failed to save streaks report', error: err.stack});
+    console.error('Error in user-streaks:', err);
+    res.status(500).json({
+      success: false,
+      message: err.message,
+      error: err.stack
+    });
   }
 });
 
