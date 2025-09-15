@@ -3,7 +3,7 @@
     "accountInfo": {
       "email": "mayank18231@gmail.com",
       "study": "first",
-      "extractedAt": "2025-09-15T09:28:24.814Z"
+      "extractedAt": "2025-09-15T09:51:31.043Z"
     },
     "summary": {
       "user": "Mayank",
@@ -350,7 +350,7 @@
     "accountInfo": {
       "email": "mgopatir@gmail.com",
       "study": "first",
-      "extractedAt": "2025-09-15T09:28:25.288Z"
+      "extractedAt": "2025-09-15T09:51:30.129Z"
     },
     "summary": {
       "user": "Mudiraj Gopatir",
@@ -685,7 +685,7 @@
     "accountInfo": {
       "email": "Shreyanreddyk09@gmail.com",
       "study": "first",
-      "extractedAt": "2025-09-15T09:28:25.771Z"
+      "extractedAt": "2025-09-15T09:51:30.763Z"
     },
     "summary": {
       "user": "Shreyan Reddy",
@@ -1032,7 +1032,7 @@
     "accountInfo": {
       "email": "addykr113@gmail.com",
       "study": "first",
-      "extractedAt": "2025-09-15T09:28:54.947Z"
+      "extractedAt": "2025-09-15T09:51:59.518Z"
     },
     "summary": {
       "user": "K R ADITI ",
@@ -1379,7 +1379,7 @@
     "accountInfo": {
       "email": "Vakadheeren95@gmail.com",
       "study": "first",
-      "extractedAt": "2025-09-15T09:28:55.442Z"
+      "extractedAt": "2025-09-15T09:52:00.611Z"
     },
     "summary": {
       "user": "Vaka",
@@ -1392,26 +1392,12 @@
       "best": 1164,
       "first": 617,
       "byArea": {
-        "problem-solving": {
-          "name": "problem-solving",
-          "current": 1187,
-          "first": 231,
-          "best": 1290,
-          "improvement": 1059
-        },
-        "speed": {
-          "name": "speed",
-          "current": 1327,
-          "first": 504,
-          "best": 1339,
-          "improvement": 835
-        },
-        "memory": {
-          "name": "memory",
-          "current": 969,
-          "first": 1094,
-          "best": 1094,
-          "improvement": 0
+        "flexibility": {
+          "name": "flexibility",
+          "current": 1220,
+          "first": 364,
+          "best": 1242,
+          "improvement": 878
         },
         "attention": {
           "name": "attention",
@@ -1420,12 +1406,26 @@
           "best": 1077,
           "improvement": 812
         },
-        "flexibility": {
-          "name": "flexibility",
-          "current": 1220,
-          "first": 364,
-          "best": 1242,
-          "improvement": 878
+        "memory": {
+          "name": "memory",
+          "current": 969,
+          "first": 1094,
+          "best": 1094,
+          "improvement": 0
+        },
+        "speed": {
+          "name": "speed",
+          "current": 1327,
+          "first": 504,
+          "best": 1339,
+          "improvement": 835
+        },
+        "problem-solving": {
+          "name": "problem-solving",
+          "current": 1187,
+          "first": 231,
+          "best": 1290,
+          "improvement": 1059
         },
         "math": {
           "name": "math",
@@ -1639,19 +1639,9 @@
       "overall": 66.7,
       "best": 69.3,
       "byArea": {
-        "problem-solving": {
-          "name": "problem-solving",
-          "current": "79.9%",
-          "best": "undefined%"
-        },
-        "speed": {
-          "name": "speed",
-          "current": "77.7%",
-          "best": "undefined%"
-        },
-        "memory": {
-          "name": "memory",
-          "current": "43.8%",
+        "flexibility": {
+          "name": "flexibility",
+          "current": "71.4%",
           "best": "undefined%"
         },
         "attention": {
@@ -1659,9 +1649,19 @@
           "current": "47.7%",
           "best": "undefined%"
         },
-        "flexibility": {
-          "name": "flexibility",
-          "current": "71.4%",
+        "memory": {
+          "name": "memory",
+          "current": "43.8%",
+          "best": "undefined%"
+        },
+        "speed": {
+          "name": "speed",
+          "current": "77.7%",
+          "best": "undefined%"
+        },
+        "problem-solving": {
+          "name": "problem-solving",
+          "current": "79.9%",
           "best": "undefined%"
         },
         "math": {
@@ -1726,7 +1726,7 @@
     "accountInfo": {
       "email": "jayasravan29@gmail.com",
       "study": "first",
-      "extractedAt": "2025-09-15T09:28:56.051Z"
+      "extractedAt": "2025-09-15T09:52:00.391Z"
     },
     "summary": {
       "user": "Sravan",
@@ -2073,7 +2073,7 @@
     "accountInfo": {
       "email": "bandisaivarnith@iacg.edu.in",
       "study": "first",
-      "extractedAt": "2025-09-15T09:29:25.675Z"
+      "extractedAt": "2025-09-15T09:52:30.934Z"
     },
     "summary": {
       "user": "Bandi Sai Varnith",
@@ -2086,26 +2086,12 @@
       "best": 1347,
       "first": 1006,
       "byArea": {
-        "problem-solving": {
-          "name": "problem-solving",
-          "current": 1211,
-          "first": 678,
-          "best": 1211,
-          "improvement": 533
-        },
-        "speed": {
-          "name": "speed",
-          "current": 1288,
-          "first": 848,
-          "best": 1501,
-          "improvement": 653
-        },
-        "memory": {
-          "name": "memory",
-          "current": 1339,
-          "first": 1325,
-          "best": 1414,
-          "improvement": 89
+        "flexibility": {
+          "name": "flexibility",
+          "current": 1263,
+          "first": 920,
+          "best": 1263,
+          "improvement": 343
         },
         "attention": {
           "name": "attention",
@@ -2114,12 +2100,26 @@
           "best": 1433,
           "improvement": 955
         },
-        "flexibility": {
-          "name": "flexibility",
-          "current": 1263,
-          "first": 920,
-          "best": 1263,
-          "improvement": 343
+        "memory": {
+          "name": "memory",
+          "current": 1339,
+          "first": 1325,
+          "best": 1414,
+          "improvement": 89
+        },
+        "speed": {
+          "name": "speed",
+          "current": 1288,
+          "first": 848,
+          "best": 1501,
+          "improvement": 653
+        },
+        "problem-solving": {
+          "name": "problem-solving",
+          "current": 1211,
+          "first": 678,
+          "best": 1211,
+          "improvement": 533
         },
         "math": {
           "name": "math",
@@ -2333,19 +2333,9 @@
       "overall": 84,
       "best": 84.7,
       "byArea": {
-        "problem-solving": {
-          "name": "problem-solving",
-          "current": "81.3%",
-          "best": "undefined%"
-        },
-        "speed": {
-          "name": "speed",
-          "current": "74.6%",
-          "best": "undefined%"
-        },
-        "memory": {
-          "name": "memory",
-          "current": "79.3%",
+        "flexibility": {
+          "name": "flexibility",
+          "current": "74.5%",
           "best": "undefined%"
         },
         "attention": {
@@ -2353,9 +2343,19 @@
           "current": "85.9%",
           "best": "undefined%"
         },
-        "flexibility": {
-          "name": "flexibility",
-          "current": "74.5%",
+        "memory": {
+          "name": "memory",
+          "current": "79.3%",
+          "best": "undefined%"
+        },
+        "speed": {
+          "name": "speed",
+          "current": "74.6%",
+          "best": "undefined%"
+        },
+        "problem-solving": {
+          "name": "problem-solving",
+          "current": "81.3%",
           "best": "undefined%"
         },
         "math": {
@@ -2420,7 +2420,7 @@
     "accountInfo": {
       "email": "karthikeyad136@gmail.com",
       "study": "second",
-      "extractedAt": "2025-09-15T09:29:25.662Z"
+      "extractedAt": "2025-09-15T09:52:30.040Z"
     },
     "summary": {
       "user": "Karthikeya",
@@ -2433,26 +2433,12 @@
       "best": 1038,
       "first": 483,
       "byArea": {
-        "problem-solving": {
-          "name": "problem-solving",
-          "current": 918,
-          "first": 345,
-          "best": 1225,
-          "improvement": 880
-        },
-        "speed": {
-          "name": "speed",
-          "current": 957,
-          "first": 236,
-          "best": 1257,
-          "improvement": 1021
-        },
-        "memory": {
-          "name": "memory",
-          "current": 951,
-          "first": 691,
-          "best": 971,
-          "improvement": 280
+        "flexibility": {
+          "name": "flexibility",
+          "current": 1183,
+          "first": 321,
+          "best": 1193,
+          "improvement": 872
         },
         "attention": {
           "name": "attention",
@@ -2461,12 +2447,26 @@
           "best": 977,
           "improvement": 679
         },
-        "flexibility": {
-          "name": "flexibility",
-          "current": 1183,
-          "first": 321,
-          "best": 1193,
-          "improvement": 872
+        "memory": {
+          "name": "memory",
+          "current": 951,
+          "first": 691,
+          "best": 971,
+          "improvement": 280
+        },
+        "speed": {
+          "name": "speed",
+          "current": 957,
+          "first": 236,
+          "best": 1257,
+          "improvement": 1021
+        },
+        "problem-solving": {
+          "name": "problem-solving",
+          "current": 918,
+          "first": 345,
+          "best": 1225,
+          "improvement": 880
         },
         "math": {
           "name": "math",
@@ -2680,19 +2680,9 @@
       "overall": 54.8,
       "best": 57.2,
       "byArea": {
-        "problem-solving": {
-          "name": "problem-solving",
-          "current": "61.4%",
-          "best": "undefined%"
-        },
-        "speed": {
-          "name": "speed",
-          "current": "47.3%",
-          "best": "undefined%"
-        },
-        "memory": {
-          "name": "memory",
-          "current": "42.1%",
+        "flexibility": {
+          "name": "flexibility",
+          "current": "68.6%",
           "best": "undefined%"
         },
         "attention": {
@@ -2700,9 +2690,19 @@
           "current": "47.9%",
           "best": "undefined%"
         },
-        "flexibility": {
-          "name": "flexibility",
-          "current": "68.6%",
+        "memory": {
+          "name": "memory",
+          "current": "42.1%",
+          "best": "undefined%"
+        },
+        "speed": {
+          "name": "speed",
+          "current": "47.3%",
+          "best": "undefined%"
+        },
+        "problem-solving": {
+          "name": "problem-solving",
+          "current": "61.4%",
           "best": "undefined%"
         },
         "math": {
@@ -2767,7 +2767,7 @@
     "accountInfo": {
       "email": "adarshgaikwad0728@gmail.com",
       "study": "second",
-      "extractedAt": "2025-09-15T09:29:26.236Z"
+      "extractedAt": "2025-09-15T09:52:30.661Z"
     },
     "summary": {
       "user": "Adarsh",
@@ -3114,7 +3114,7 @@
     "accountInfo": {
       "email": "srisaikarthik@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:29:56.730Z"
+      "extractedAt": "2025-09-15T09:53:00.352Z"
     },
     "summary": {
       "user": "SATHAVALLI SRI SAI KARTHIK",
@@ -3461,7 +3461,7 @@
     "accountInfo": {
       "email": "johnabhishay@gmail.com",
       "study": "second",
-      "extractedAt": "2025-09-15T09:29:57.135Z"
+      "extractedAt": "2025-09-15T09:53:00.758Z"
     },
     "summary": {
       "user": "John",
@@ -3808,7 +3808,7 @@
     "accountInfo": {
       "email": "gmaneeshrao@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:29:57.274Z"
+      "extractedAt": "2025-09-15T09:53:01.365Z"
     },
     "summary": {
       "user": "GOURAVARAM MANEESH RAO",
@@ -4155,7 +4155,7 @@
     "accountInfo": {
       "email": "syedarman@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:30:26.942Z"
+      "extractedAt": "2025-09-15T09:53:29.996Z"
     },
     "summary": {
       "user": "SYED ARMAN",
@@ -4502,7 +4502,7 @@
     "accountInfo": {
       "email": "stanushraj2@gmail.com",
       "study": "second",
-      "extractedAt": "2025-09-15T09:30:26.504Z"
+      "extractedAt": "2025-09-15T09:53:30.260Z"
     },
     "summary": {
       "user": "S. Tanush",
@@ -4849,7 +4849,7 @@
     "accountInfo": {
       "email": "Bkeerthipriya@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:30:27.429Z"
+      "extractedAt": "2025-09-15T09:53:30.104Z"
     },
     "summary": {
       "user": "BHUCHAKRA KEERTHI PRIYA",
@@ -5196,7 +5196,7 @@
     "accountInfo": {
       "email": "knagasravani@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:30:59.996Z"
+      "extractedAt": "2025-09-15T09:53:59.381Z"
     },
     "summary": {
       "user": "KULKARNI NAGA SRAVANI",
@@ -5543,7 +5543,7 @@
     "accountInfo": {
       "email": "syedosmanhussain@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:30:59.983Z"
+      "extractedAt": "2025-09-15T09:54:00.423Z"
     },
     "summary": {
       "user": "SYED OSMAN HUSSAIN",
@@ -5752,25 +5752,25 @@
       ]
     },
     "streaks": {
-      "current": 0,
-      "best": 0,
-      "total": 0,
+      "current": 19,
+      "best": 19,
+      "total": 12,
       "monthlyStreaks": {
-        "1": false,
-        "2": false,
-        "3": false,
-        "4": false,
-        "5": false,
-        "6": false,
-        "7": false,
-        "8": false,
-        "9": false,
-        "10": false,
-        "11": false,
-        "12": false,
-        "13": false,
-        "14": false,
-        "15": false,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
         "16": null,
         "17": null,
         "18": null,
@@ -5793,10 +5793,10 @@
         "monthName": "September",
         "today": 15,
         "daysInMonth": 30,
-        "daysPlayed": 0,
-        "daysMissed": 15,
+        "daysPlayed": 15,
+        "daysMissed": 0,
         "futureDays": 15,
-        "completionRate": "0%"
+        "completionRate": "100%"
       }
     },
     "percentiles": {
@@ -5920,7 +5920,7 @@
     "accountInfo": {
       "email": "srikarramagoni@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:30:58.667Z"
+      "extractedAt": "2025-09-15T09:54:00.192Z"
     },
     "summary": {
       "user": "SRIKAR RAMAGONI",
@@ -6297,7 +6297,7 @@
     "accountInfo": {
       "email": "ksurajadithya@iacg.info",
       "study": "second",
-      "extractedAt": "2025-09-15T09:31:29.434Z"
+      "extractedAt": "2025-09-15T09:54:31.103Z"
     },
     "summary": {
       "user": "KONDA SURAJ ADITHYA",
@@ -6644,7 +6644,7 @@
     "accountInfo": {
       "email": "akshithanarra9@gamil.com",
       "study": "second",
-      "extractedAt": "2025-09-15T09:31:29.388Z"
+      "extractedAt": "2025-09-15T09:54:31.397Z"
     },
     "summary": {
       "user": "Akshitha",
@@ -6844,7 +6844,7 @@
     "accountInfo": {
       "email": "Jaswanthkadiyam11@gmail.com",
       "study": "second",
-      "extractedAt": "2025-09-15T09:31:30.059Z"
+      "extractedAt": "2025-09-15T09:54:31.755Z"
     },
     "summary": {
       "user": "Jaswanrh",
