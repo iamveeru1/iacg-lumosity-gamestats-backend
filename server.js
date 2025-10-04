@@ -127,12 +127,13 @@ app.get('/api/results', async (req, res) => {
  */
 app.get('/api/user-streaks', async (req, res) => {
   try {
-    const { email } = req.query;
-    if (!email) {
-      return res.status(400).json({ success: false, message: 'Email is required' });
+    const { email, month } = req.query;
+    if (!email || !month) {
+      return res.status(400).json({ success: false, message: 'Email and month are required' });
     }
 
-    const data = await fs.readFile('./augResults.json', 'utf8');
+    const fileName = `./${month.toLowerCase()}Results.json`;
+    const data = await fs.readFile(fileName, 'utf8');
     const users = JSON.parse(data);
 
     const user = users.find(u => u.accountInfo.email === email);
@@ -144,6 +145,9 @@ app.get('/api/user-streaks', async (req, res) => {
     }
   } catch (err) {
     console.error('Error in user-streaks:', err);
+    if (err.code === 'ENOENT') {
+      return res.status(404).json({ success: false, message: `No data found for the month: ${month}` });
+    }
     res.status(500).json({
       success: false,
       message: err.message,
