@@ -108,7 +108,7 @@ app.post('/api/save-daily-report', async (req, res) => {
       error: err.stack 
     });
   }
-});
+}); 
 
 app.get('/api/results', async (req, res) => {
   try {
