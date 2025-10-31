@@ -3,7 +3,7 @@
     "accountInfo": {
       "email": "mayank18231@gmail.com",
       "study": "first",
-      "extractedAt": "2025-10-30T09:39:15.263Z"
+      "extractedAt": "2025-10-31T09:21:58.132Z"
     },
     "summary": {
       "user": "Mayank",
@@ -246,18 +246,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 11,
-        "daysMissed": 19,
-        "futureDays": 1,
-        "completionRate": "37%"
+        "daysMissed": 20,
+        "futureDays": 0,
+        "completionRate": "35%"
       }
     },
     "percentiles": {
@@ -351,7 +351,7 @@
     "accountInfo": {
       "email": "mgopatir@gmail.com",
       "study": "first",
-      "extractedAt": "2025-10-30T09:39:14.929Z"
+      "extractedAt": "2025-10-31T09:21:57.874Z"
     },
     "summary": {
       "user": "Mudiraj Gopatir",
@@ -587,18 +587,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 12,
-        "daysMissed": 18,
-        "futureDays": 1,
-        "completionRate": "40%"
+        "daysMissed": 19,
+        "futureDays": 0,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
@@ -687,7 +687,7 @@
     "accountInfo": {
       "email": "Shreyanreddyk09@gmail.com",
       "study": "first",
-      "extractedAt": "2025-10-30T09:39:15.279Z"
+      "extractedAt": "2025-10-31T09:21:58.596Z"
     },
     "summary": {
       "user": "Shreyan Reddy",
@@ -930,18 +930,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 11,
-        "daysMissed": 19,
-        "futureDays": 1,
-        "completionRate": "37%"
+        "daysMissed": 20,
+        "futureDays": 0,
+        "completionRate": "35%"
       }
     },
     "percentiles": {
@@ -1035,7 +1035,7 @@
     "accountInfo": {
       "email": "addykr113@gmail.com",
       "study": "first",
-      "extractedAt": "2025-10-30T09:39:44.928Z"
+      "extractedAt": "2025-10-31T09:22:28.509Z"
     },
     "summary": {
       "user": "K R ADITI ",
@@ -1278,18 +1278,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 10,
-        "daysMissed": 20,
-        "futureDays": 1,
-        "completionRate": "33%"
+        "daysMissed": 21,
+        "futureDays": 0,
+        "completionRate": "32%"
       }
     },
     "percentiles": {
@@ -1383,7 +1383,7 @@
     "accountInfo": {
       "email": "Vakadheeren95@gmail.com",
       "study": "first",
-      "extractedAt": "2025-10-30T09:39:45.303Z"
+      "extractedAt": "2025-10-31T09:22:27.987Z"
     },
     "summary": {
       "user": "Vaka",
@@ -1626,18 +1626,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 9,
-        "daysMissed": 21,
-        "futureDays": 1,
-        "completionRate": "30%"
+        "daysMissed": 22,
+        "futureDays": 0,
+        "completionRate": "29%"
       }
     },
     "percentiles": {
@@ -1731,7 +1731,7 @@
     "accountInfo": {
       "email": "jayasravan29@gmail.com",
       "study": "first",
-      "extractedAt": "2025-10-30T09:39:44.384Z"
+      "extractedAt": "2025-10-31T09:22:27.942Z"
     },
     "summary": {
       "user": "Sravan",
@@ -1740,8 +1740,8 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1431,
-      "best": 1431,
+      "overall": 1439,
+      "best": 1439,
       "first": 589,
       "byArea": {
         "flexibility": {
@@ -1767,17 +1767,17 @@
         },
         "speed": {
           "name": "speed",
-          "current": 1502,
+          "current": 1520,
           "first": 360,
-          "best": 1506,
-          "improvement": 1146
+          "best": 1520,
+          "improvement": 1160
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": 1378,
+          "current": 1402,
           "first": 324,
-          "best": 1395,
-          "improvement": 1071
+          "best": 1402,
+          "improvement": 1078
         },
         "math": {
           "name": "math",
@@ -1872,21 +1872,21 @@
         },
         {
           "rank": 9,
-          "game": "trouble-brewing",
-          "name": "trouble-brewing",
-          "area": "attention",
-          "areaName": "attention",
-          "lpi": 1591,
+          "game": "river-ranger",
+          "name": "river-ranger",
+          "area": "speed",
+          "areaName": "speed",
+          "lpi": 1631,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 10,
-          "game": "river-ranger",
-          "name": "river-ranger",
-          "area": "speed",
-          "areaName": "speed",
-          "lpi": 1550,
+          "game": "trouble-brewing",
+          "name": "trouble-brewing",
+          "area": "attention",
+          "areaName": "attention",
+          "lpi": 1591,
           "playCount": 0,
           "improvement": 0
         }
@@ -1930,11 +1930,11 @@
         },
         {
           "rank": 5,
-          "game": "speed-pack",
-          "name": "speed-pack",
+          "game": "river-ranger",
+          "name": "river-ranger",
           "area": "speed",
           "areaName": "speed",
-          "improvement": 1169,
+          "improvement": 1188,
           "playCount": 0
         }
       ]
@@ -1974,23 +1974,23 @@
         "28": true,
         "29": false,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 14,
-        "daysMissed": 16,
-        "futureDays": 1,
-        "completionRate": "47%"
+        "daysMissed": 17,
+        "futureDays": 0,
+        "completionRate": "45%"
       }
     },
     "percentiles": {
-      "overall": 90.4,
-      "best": 90.4,
+      "overall": 90.9,
+      "best": 90.9,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
@@ -2009,12 +2009,12 @@
         },
         "speed": {
           "name": "speed",
-          "current": "90%",
+          "current": "91.1%",
           "best": "undefined%"
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": "90%",
+          "current": "91%",
           "best": "undefined%"
         },
         "math": {
@@ -2079,7 +2079,7 @@
     "accountInfo": {
       "email": "bandisaivarnith@iacg.edu.in",
       "study": "first",
-      "extractedAt": "2025-10-30T09:40:14.194Z"
+      "extractedAt": "2025-10-31T09:22:56.659Z"
     },
     "summary": {
       "user": "Bandi Sai Varnith",
@@ -2322,18 +2322,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 14,
-        "daysMissed": 16,
-        "futureDays": 1,
-        "completionRate": "47%"
+        "daysMissed": 17,
+        "futureDays": 0,
+        "completionRate": "45%"
       }
     },
     "percentiles": {
@@ -2427,7 +2427,7 @@
     "accountInfo": {
       "email": "karthikeyad136@gmail.com",
       "study": "second",
-      "extractedAt": "2025-10-30T09:40:15.003Z"
+      "extractedAt": "2025-10-31T09:22:56.801Z"
     },
     "summary": {
       "user": "Karthikeya",
@@ -2670,18 +2670,18 @@
         "28": true,
         "29": false,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 15,
-        "daysMissed": 15,
-        "futureDays": 1,
-        "completionRate": "50%"
+        "daysMissed": 16,
+        "futureDays": 0,
+        "completionRate": "48%"
       }
     },
     "percentiles": {
@@ -2775,7 +2775,7 @@
     "accountInfo": {
       "email": "adarshgaikwad0728@gmail.com",
       "study": "second",
-      "extractedAt": "2025-10-30T09:40:14.582Z"
+      "extractedAt": "2025-10-31T09:22:57.142Z"
     },
     "summary": {
       "user": "Adarsh",
@@ -3018,18 +3018,18 @@
         "28": false,
         "29": false,
         "30": false,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 9,
-        "daysMissed": 21,
-        "futureDays": 1,
-        "completionRate": "30%"
+        "daysMissed": 22,
+        "futureDays": 0,
+        "completionRate": "29%"
       }
     },
     "percentiles": {
@@ -3123,7 +3123,7 @@
     "accountInfo": {
       "email": "srisaikarthik@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:40:44.591Z"
+      "extractedAt": "2025-10-31T09:23:26.168Z"
     },
     "summary": {
       "user": "SATHAVALLI SRI SAI KARTHIK",
@@ -3366,17 +3366,17 @@
         "28": false,
         "29": false,
         "30": false,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 1,
-        "daysMissed": 29,
-        "futureDays": 1,
+        "daysMissed": 30,
+        "futureDays": 0,
         "completionRate": "3%"
       }
     },
@@ -3471,7 +3471,7 @@
     "accountInfo": {
       "email": "johnabhishay@gmail.com",
       "study": "second",
-      "extractedAt": "2025-10-30T09:40:44.809Z"
+      "extractedAt": "2025-10-31T09:23:26.261Z"
     },
     "summary": {
       "user": "John",
@@ -3714,18 +3714,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 14,
-        "daysMissed": 16,
-        "futureDays": 1,
-        "completionRate": "47%"
+        "daysMissed": 17,
+        "futureDays": 0,
+        "completionRate": "45%"
       }
     },
     "percentiles": {
@@ -3819,7 +3819,7 @@
     "accountInfo": {
       "email": "gmaneeshrao@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:40:45.293Z"
+      "extractedAt": "2025-10-31T09:23:25.904Z"
     },
     "summary": {
       "user": "GOURAVARAM MANEESH RAO",
@@ -4062,18 +4062,18 @@
         "28": true,
         "29": false,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 8,
-        "daysMissed": 22,
-        "futureDays": 1,
-        "completionRate": "27%"
+        "daysMissed": 23,
+        "futureDays": 0,
+        "completionRate": "26%"
       }
     },
     "percentiles": {
@@ -4167,7 +4167,7 @@
     "accountInfo": {
       "email": "syedarman@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:41:13.824Z"
+      "extractedAt": "2025-10-31T09:23:55.571Z"
     },
     "summary": {
       "user": "SYED ARMAN",
@@ -4410,17 +4410,17 @@
         "28": false,
         "29": false,
         "30": false,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 4,
-        "daysMissed": 26,
-        "futureDays": 1,
+        "daysMissed": 27,
+        "futureDays": 0,
         "completionRate": "13%"
       }
     },
@@ -4515,7 +4515,7 @@
     "accountInfo": {
       "email": "stanushraj2@gmail.com",
       "study": "second",
-      "extractedAt": "2025-10-30T09:41:12.788Z"
+      "extractedAt": "2025-10-31T09:23:54.875Z"
     },
     "summary": {
       "user": "S. Tanush",
@@ -4758,18 +4758,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 12,
-        "daysMissed": 18,
-        "futureDays": 1,
-        "completionRate": "40%"
+        "daysMissed": 19,
+        "futureDays": 0,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
@@ -4863,7 +4863,7 @@
     "accountInfo": {
       "email": "Bkeerthipriya@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:41:13.608Z"
+      "extractedAt": "2025-10-31T09:23:55.575Z"
     },
     "summary": {
       "user": "BHUCHAKRA KEERTHI PRIYA",
@@ -5106,18 +5106,18 @@
         "28": true,
         "29": false,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 12,
-        "daysMissed": 18,
-        "futureDays": 1,
-        "completionRate": "40%"
+        "daysMissed": 19,
+        "futureDays": 0,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
@@ -5211,7 +5211,7 @@
     "accountInfo": {
       "email": "knagasravani@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:41:41.525Z"
+      "extractedAt": "2025-10-31T09:24:24.167Z"
     },
     "summary": {
       "user": "KULKARNI NAGA SRAVANI",
@@ -5454,18 +5454,18 @@
         "28": true,
         "29": false,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 14,
-        "daysMissed": 16,
-        "futureDays": 1,
-        "completionRate": "47%"
+        "daysMissed": 17,
+        "futureDays": 0,
+        "completionRate": "45%"
       }
     },
     "percentiles": {
@@ -5559,7 +5559,7 @@
     "accountInfo": {
       "email": "syedosmanhussain@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:41:41.993Z"
+      "extractedAt": "2025-10-31T09:24:24.558Z"
     },
     "summary": {
       "user": "SYED OSMAN HUSSAIN",
@@ -5768,7 +5768,7 @@
       ]
     },
     "streaks": {
-      "current": 3,
+      "current": 4,
       "best": 57,
       "total": 14,
       "monthlyStreaks": {
@@ -5802,17 +5802,17 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": true
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
-        "daysPlayed": 27,
+        "daysPlayed": 28,
         "daysMissed": 3,
-        "futureDays": 1,
+        "futureDays": 0,
         "completionRate": "90%"
       }
     },
@@ -5937,7 +5937,7 @@
     "accountInfo": {
       "email": "srikarramagoni@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:41:42.163Z"
+      "extractedAt": "2025-10-31T09:24:24.954Z"
     },
     "summary": {
       "user": "SRIKAR RAMAGONI",
@@ -6180,18 +6180,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 10,
-        "daysMissed": 20,
-        "futureDays": 1,
-        "completionRate": "33%"
+        "daysMissed": 21,
+        "futureDays": 0,
+        "completionRate": "32%"
       }
     },
     "percentiles": {
@@ -6315,7 +6315,7 @@
     "accountInfo": {
       "email": "ksurajadithya@iacg.info",
       "study": "second",
-      "extractedAt": "2025-10-30T09:42:10.925Z"
+      "extractedAt": "2025-10-31T09:24:54.178Z"
     },
     "summary": {
       "user": "KONDA SURAJ ADITHYA",
@@ -6558,18 +6558,18 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 11,
-        "daysMissed": 19,
-        "futureDays": 1,
-        "completionRate": "37%"
+        "daysMissed": 20,
+        "futureDays": 0,
+        "completionRate": "35%"
       }
     },
     "percentiles": {
@@ -6663,7 +6663,7 @@
     "accountInfo": {
       "email": "akshithanarra9@gamil.com",
       "study": "second",
-      "extractedAt": "2025-10-30T09:42:11.629Z"
+      "extractedAt": "2025-10-31T09:24:54.650Z"
     },
     "summary": {
       "user": "Akshitha",
@@ -6759,18 +6759,18 @@
         "28": true,
         "29": true,
         "30": false,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 11,
-        "daysMissed": 19,
-        "futureDays": 1,
-        "completionRate": "37%"
+        "daysMissed": 20,
+        "futureDays": 0,
+        "completionRate": "35%"
       }
     },
     "percentiles": {
@@ -6864,7 +6864,7 @@
     "accountInfo": {
       "email": "Jaswanthkadiyam11@gmail.com",
       "study": "second",
-      "extractedAt": "2025-10-30T09:42:11.267Z"
+      "extractedAt": "2025-10-31T09:24:54.659Z"
     },
     "summary": {
       "user": "Jaswanrh",
@@ -7107,17 +7107,17 @@
         "28": true,
         "29": true,
         "30": true,
-        "31": null
+        "31": false
       },
       "monthInfo": {
         "year": 2025,
         "month": 10,
         "monthName": "October",
-        "today": 30,
+        "today": 31,
         "daysInMonth": 31,
         "daysPlayed": 3,
-        "daysMissed": 27,
-        "futureDays": 1,
+        "daysMissed": 28,
+        "futureDays": 0,
         "completionRate": "10%"
       }
     },
