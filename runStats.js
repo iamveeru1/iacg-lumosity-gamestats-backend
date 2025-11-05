@@ -568,11 +568,7 @@ async function processAccountOptimized(browser, account, accountIndex, batchInde
           const loginButton = buttons.find(btn => 
             btn.innerText.toLowerCase().includes('log in') || btn.type === 'submit'
           );
-          if (loginButton) {
-            loginButton.click();
-          } else {
-            console.error('Login button not found');
-          }
+          if (loginButton) loginButton.click();
         })
       ]).catch(() => {
         console.log(`   ⚠️ [${account.email}] Navigation timeout (may be normal)`);

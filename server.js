@@ -198,6 +198,8 @@ app.get('/api/user-stats', async (req, res) => {
   }
 });
 
+app.use('/api/udemy', require('./udemyApi'));
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
