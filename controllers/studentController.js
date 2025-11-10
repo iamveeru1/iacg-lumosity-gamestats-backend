@@ -92,6 +92,7 @@ exports.updateCourse = async (req, res) => {
 exports.deleteCourse = async (req, res) => {
   try {
     const { email, courseId } = req.params;
+    console.log(`Deleting course with ID: ${courseId}`);
 
     const student = await Student.findOneAndUpdate(
       { email },
@@ -99,7 +100,12 @@ exports.deleteCourse = async (req, res) => {
       { new: true }
     );
 
-    if (!student) return res.status(404).json({ message: "Course not found" });
+    console.log(student);
+
+    if (!student)
+      return res
+        .status(404)
+        .json({ message: "Student not found or course not found" });
     res.json(student);
   } catch (error) {
     res.status(500).json({ message: error.message });
