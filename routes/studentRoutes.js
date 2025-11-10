@@ -15,6 +15,6 @@ router.get("/:email", getStudentByEmail); // GET single student
 router.post("/", addStudent); // POST new student
 router.put("/:email/course", addCourse); // PUT new course
 router.put("/:email/course/:courseName", updateCourse); // PUT update course
-router.delete("/:email/course/:courseName", deleteCourse); // DELETE course
+router.delete("/:email/course/:courseId", deleteCourse); // DELETE course
 
 module.exports = router;

@@ -87,15 +87,15 @@ exports.updateCourse = async (req, res) => {
 
 /**
  * @desc Delete a specific course
- * @route DELETE /api/students/:email/course/:courseName
+ * @route DELETE /api/students/:email/course/:courseId
  */
 exports.deleteCourse = async (req, res) => {
   try {
-    const { email, courseName } = req.params;
+    const { email, courseId } = req.params;
 
     const student = await Student.findOneAndUpdate(
       { email },
-      { $pull: { "udemyTracker.courses": { courseName } } },
+      { $pull: { "udemyTracker.courses": { _id: courseId } } },
       { new: true }
     );
 
