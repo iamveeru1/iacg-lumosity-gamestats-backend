@@ -5,9 +5,8 @@ const fs = require('fs').promises;
 const app = express();
 const { runLumosityStats } = require('./runStats');
 const mongoose = require('mongoose');
-const { LumosityStat } = require('./models/LumosityStat');
 const DailyLumosityReport = require('./models/DailyLumosityReport');
-const DailyStreaksReport = require('./models/DailyStreaksReport'); // Import the new model
+const studentRoutes = require("./routes/studentRoutes.js");
 
 // Middleware
 app.use(cors());
@@ -198,7 +197,7 @@ app.get('/api/user-stats', async (req, res) => {
   }
 });
 
-app.use('/api/udemy', require('./udemyApi'));
+app.use("/api/students", studentRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
