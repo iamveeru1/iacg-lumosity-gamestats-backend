@@ -2640,7 +2640,7 @@
         "5": true,
         "6": true,
         "7": true,
-        "8": false,
+        "8": true,
         "9": false,
         "10": false,
         "11": null,
@@ -2670,8 +2670,8 @@
         "monthName": "November",
         "today": 10,
         "daysInMonth": 30,
-        "daysPlayed": 4,
-        "daysMissed": 6,
+        "daysPlayed": 5,
+        "daysMissed": 5,
         "futureDays": 20,
         "completionRate": "40%"
       }
@@ -2987,7 +2987,7 @@
         "5": false,
         "6": true,
         "7": true,
-        "8": false,
+        "8": true,
         "9": false,
         "10": false,
         "11": null,
@@ -3017,8 +3017,8 @@
         "monthName": "November",
         "today": 10,
         "daysInMonth": 30,
-        "daysPlayed": 2,
-        "daysMissed": 8,
+        "daysPlayed": 3,
+        "daysMissed": 7,
         "futureDays": 20,
         "completionRate": "20%"
       }
@@ -3681,7 +3681,7 @@
         "5": true,
         "6": true,
         "7": false,
-        "8": false,
+        "8": true,
         "9": false,
         "10": true,
         "11": null,
@@ -3711,8 +3711,8 @@
         "monthName": "November",
         "today": 10,
         "daysInMonth": 30,
-        "daysPlayed": 3,
-        "daysMissed": 7,
+        "daysPlayed": 4,
+        "daysMissed": 6,
         "futureDays": 20,
         "completionRate": "30%"
       }
@@ -4722,7 +4722,7 @@
         "5": true,
         "6": true,
         "7": false,
-        "8": false,
+        "8": true,
         "9": false,
         "10": false,
         "11": null,
@@ -4752,8 +4752,8 @@
         "monthName": "November",
         "today": 10,
         "daysInMonth": 30,
-        "daysPlayed": 3,
-        "daysMissed": 7,
+        "daysPlayed": 4,
+        "daysMissed": 6,
         "futureDays": 20,
         "completionRate": "30%"
       }
@@ -6517,7 +6517,7 @@
         "5": false,
         "6": true,
         "7": false,
-        "8": false,
+        "8": true,
         "9": false,
         "10": false,
         "11": null,
@@ -6547,8 +6547,8 @@
         "monthName": "November",
         "today": 10,
         "daysInMonth": 30,
-        "daysPlayed": 3,
-        "daysMissed": 7,
+        "daysPlayed": 4,
+        "daysMissed": 6,
         "futureDays": 20,
         "completionRate": "30%"
       }
@@ -6717,7 +6717,7 @@
         "5": false,
         "6": true,
         "7": false,
-        "8": false,
+        "8": true,
         "9": false,
         "10": false,
         "11": null,
@@ -6747,8 +6747,8 @@
         "monthName": "November",
         "today": 10,
         "daysInMonth": 30,
-        "daysPlayed": 3,
-        "daysMissed": 7,
+        "daysPlayed": 4,
+        "daysMissed": 6,
         "futureDays": 20,
         "completionRate": "30%"
       }
