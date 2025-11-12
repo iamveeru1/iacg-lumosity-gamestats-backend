@@ -978,7 +978,7 @@
       }
     },
     "training": {
-      "totalSessions": 0,
+      "totalSessions": 1,
       "totalTimeMinutes": 0,
       "averageSessionTime": 0,
       "totalGamesPlayed": 0,
