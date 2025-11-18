@@ -3,7 +3,7 @@
     "accountInfo": {
       "email": "mayank18231@gmail.com",
       "study": "first",
-      "extractedAt": "2025-11-17T04:09:32.739Z"
+      "extractedAt": "2025-11-18T05:06:09.833Z"
     },
     "summary": {
       "user": "Mayank",
@@ -12,8 +12,8 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1361,
-      "best": 1364,
+      "overall": 1366,
+      "best": 1366,
       "first": 674,
       "byArea": {
         "flexibility": {
@@ -25,7 +25,7 @@
         },
         "attention": {
           "name": "attention",
-          "current": 1378,
+          "current": 1394,
           "first": 329,
           "best": 1400,
           "improvement": 1071
@@ -124,6 +124,16 @@
         },
         {
           "rank": 7,
+          "game": "lost-in-migration",
+          "name": "lost-in-migration",
+          "area": "attention",
+          "areaName": "attention",
+          "lpi": 1460,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 8,
           "game": "ruled-out",
           "name": "ruled-out",
           "area": "problem-solving",
@@ -133,7 +143,7 @@
           "improvement": 0
         },
         {
-          "rank": 8,
+          "rank": 9,
           "game": "space-trace",
           "name": "space-trace",
           "area": "flexibility",
@@ -143,22 +153,12 @@
           "improvement": 0
         },
         {
-          "rank": 9,
+          "rank": 10,
           "game": "tidal-treasures",
           "name": "tidal-treasures",
           "area": "memory",
           "areaName": "memory",
           "lpi": 1416,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
-          "rank": 10,
-          "game": "lost-in-migration",
-          "name": "lost-in-migration",
-          "area": "attention",
-          "areaName": "attention",
-          "lpi": 1379,
           "playCount": 0,
           "improvement": 0
         }
@@ -212,7 +212,7 @@
       ]
     },
     "streaks": {
-      "current": 1,
+      "current": 3,
       "best": 6,
       "total": 22,
       "monthlyStreaks": {
@@ -232,8 +232,8 @@
         "14": false,
         "15": false,
         "16": true,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": true,
         "19": null,
         "20": null,
         "21": null,
@@ -251,17 +251,17 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 9,
-        "daysMissed": 8,
-        "futureDays": 13,
-        "completionRate": "53%"
+        "daysPlayed": 11,
+        "daysMissed": 7,
+        "futureDays": 12,
+        "completionRate": "61%"
       }
     },
     "percentiles": {
-      "overall": 85.7,
-      "best": 85.9,
+      "overall": 86.1,
+      "best": 86.1,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
@@ -270,7 +270,7 @@
         },
         "attention": {
           "name": "attention",
-          "current": "84.6%",
+          "current": "85.8%",
           "best": "undefined%"
         },
         "memory": {
@@ -350,7 +350,7 @@
     "accountInfo": {
       "email": "mgopatir@gmail.com",
       "study": "first",
-      "extractedAt": "2025-11-17T04:09:32.115Z"
+      "extractedAt": "2025-11-18T05:06:10.857Z"
     },
     "summary": {
       "user": "Mudiraj Gopatir",
@@ -359,20 +359,20 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1138,
-      "best": 1150,
+      "overall": 1143,
+      "best": 1166,
       "first": 639,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": 1105,
+          "current": 1232,
           "first": 419,
           "best": 1253,
           "improvement": 834
         },
         "attention": {
           "name": "attention",
-          "current": 968,
+          "current": 960,
           "first": 212,
           "best": 1009,
           "improvement": 797
@@ -386,14 +386,14 @@
         },
         "speed": {
           "name": "speed",
-          "current": 1425,
+          "current": 1463,
           "first": 903,
-          "best": 1452,
-          "improvement": 549
+          "best": 1463,
+          "improvement": 560
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": 789,
+          "current": 680,
           "first": 200,
           "best": 789,
           "improvement": 589
@@ -424,6 +424,16 @@
         },
         {
           "rank": 3,
+          "game": "speed-pack",
+          "name": "speed-pack",
+          "area": "speed",
+          "areaName": "speed",
+          "lpi": 1407,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 4,
           "game": "color-match",
           "name": "color-match",
           "area": "flexibility",
@@ -433,37 +443,37 @@
           "improvement": 0
         },
         {
-          "rank": 4,
-          "game": "speed-pack",
-          "name": "speed-pack",
-          "area": "speed",
-          "areaName": "speed",
-          "lpi": 1325,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
           "rank": 5,
-          "game": "masterpiece",
-          "name": "masterpiece",
-          "area": "problem-solving",
-          "areaName": "problem-solving",
-          "lpi": 1268,
+          "game": "lost-in-migration",
+          "name": "lost-in-migration",
+          "area": "attention",
+          "areaName": "attention",
+          "lpi": 1230,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 6,
-          "game": "lost-in-migration",
-          "name": "lost-in-migration",
-          "area": "attention",
-          "areaName": "attention",
-          "lpi": 1247,
+          "game": "space-trace",
+          "name": "space-trace",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "lpi": 1109,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 7,
+          "game": "masterpiece",
+          "name": "masterpiece",
+          "area": "problem-solving",
+          "areaName": "problem-solving",
+          "lpi": 949,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 8,
           "game": "penguin-rally",
           "name": "penguin-rally",
           "area": "speed",
@@ -473,22 +483,12 @@
           "improvement": 0
         },
         {
-          "rank": 8,
+          "rank": 9,
           "game": "skyrise",
           "name": "skyrise",
           "area": "attention",
           "areaName": "attention",
-          "lpi": 900,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
-          "rank": 9,
-          "game": "space-trace",
-          "name": "space-trace",
-          "area": "flexibility",
-          "areaName": "flexibility",
-          "lpi": 884,
+          "lpi": 892,
           "playCount": 0,
           "improvement": 0
         },
@@ -528,31 +528,31 @@
           "name": "speed-pack",
           "area": "speed",
           "areaName": "speed",
-          "improvement": 871,
+          "improvement": 953,
           "playCount": 0
         },
         {
           "rank": 4,
+          "game": "space-trace",
+          "name": "space-trace",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "improvement": 727,
+          "playCount": 0
+        },
+        {
+          "rank": 5,
           "game": "memory-matrix",
           "name": "memory-matrix",
           "area": "memory",
           "areaName": "memory",
           "improvement": 602,
           "playCount": 0
-        },
-        {
-          "rank": 5,
-          "game": "masterpiece",
-          "name": "masterpiece",
-          "area": "problem-solving",
-          "areaName": "problem-solving",
-          "improvement": 549,
-          "playCount": 0
         }
       ]
     },
     "streaks": {
-      "current": 1,
+      "current": 2,
       "best": 8,
       "total": 17,
       "monthlyStreaks": {
@@ -572,8 +572,8 @@
         "14": false,
         "15": false,
         "16": true,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -591,26 +591,26 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 5,
+        "daysPlayed": 6,
         "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "futureDays": 12,
+        "completionRate": "33%"
       }
     },
     "percentiles": {
-      "overall": 66.8,
-      "best": 68,
+      "overall": 67.3,
+      "best": 69.4,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": "62.4%",
+          "current": "72.2%",
           "best": "undefined%"
         },
         "attention": {
           "name": "attention",
-          "current": "47%",
+          "current": "46.2%",
           "best": "undefined%"
         },
         "memory": {
@@ -620,12 +620,12 @@
         },
         "speed": {
           "name": "speed",
-          "current": "84.9%",
+          "current": "87.5%",
           "best": "undefined%"
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": "51.2%",
+          "current": "42.1%",
           "best": "undefined%"
         }
       }
@@ -685,7 +685,7 @@
     "accountInfo": {
       "email": "Shreyanreddyk09@gmail.com",
       "study": "first",
-      "extractedAt": "2025-11-17T04:09:32.490Z"
+      "extractedAt": "2025-11-18T05:06:10.367Z"
     },
     "summary": {
       "user": "Shreyan Reddy",
@@ -694,13 +694,13 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 964,
+      "overall": 1020,
       "best": 1072,
       "first": 634,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": 871,
+          "current": 936,
           "first": 519,
           "best": 1017,
           "improvement": 498
@@ -714,14 +714,14 @@
         },
         "memory": {
           "name": "memory",
-          "current": 880,
+          "current": 994,
           "first": 904,
-          "best": 917,
-          "improvement": 13
+          "best": 994,
+          "improvement": 90
         },
         "speed": {
           "name": "speed",
-          "current": 957,
+          "current": 1059,
           "first": 368,
           "best": 1271,
           "improvement": 903
@@ -756,6 +756,26 @@
         },
         {
           "rank": 2,
+          "game": "highway-hazards",
+          "name": "highway-hazards",
+          "area": "speed",
+          "areaName": "speed",
+          "lpi": 1413,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 3,
+          "game": "robot-factory",
+          "name": "robot-factory",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "lpi": 1413,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 4,
           "game": "splitting-seeds",
           "name": "splitting-seeds",
           "area": "speed",
@@ -765,7 +785,7 @@
           "improvement": 0
         },
         {
-          "rank": 3,
+          "rank": 5,
           "game": "eagle-eye",
           "name": "eagle-eye",
           "area": "attention",
@@ -775,17 +795,7 @@
           "improvement": 0
         },
         {
-          "rank": 4,
-          "game": "robot-factory",
-          "name": "robot-factory",
-          "area": "flexibility",
-          "areaName": "flexibility",
-          "lpi": 1235,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "game": "playing-koi",
           "name": "playing-koi",
           "area": "attention",
@@ -795,22 +805,12 @@
           "improvement": 0
         },
         {
-          "rank": 6,
+          "rank": 7,
           "game": "familiar-faces",
           "name": "familiar-faces",
           "area": "memory",
           "areaName": "memory",
           "lpi": 1152,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
-          "rank": 7,
-          "game": "highway-hazards",
-          "name": "highway-hazards",
-          "area": "speed",
-          "areaName": "speed",
-          "lpi": 1139,
           "playCount": 0,
           "improvement": 0
         },
@@ -836,11 +836,11 @@
         },
         {
           "rank": 10,
-          "game": "organic-order",
-          "name": "organic-order",
-          "area": "problem-solving",
-          "areaName": "problem-solving",
-          "lpi": 987,
+          "game": "pinball-recall",
+          "name": "pinball-recall",
+          "area": "memory",
+          "areaName": "memory",
+          "lpi": 1019,
           "playCount": 0,
           "improvement": 0
         }
@@ -866,11 +866,11 @@
         },
         {
           "rank": 3,
-          "game": "skyrise",
-          "name": "skyrise",
-          "area": "attention",
-          "areaName": "attention",
-          "improvement": 805,
+          "game": "highway-hazards",
+          "name": "highway-hazards",
+          "area": "speed",
+          "areaName": "speed",
+          "improvement": 1045,
           "playCount": 0
         },
         {
@@ -879,16 +879,16 @@
           "name": "robot-factory",
           "area": "flexibility",
           "areaName": "flexibility",
-          "improvement": 787,
+          "improvement": 965,
           "playCount": 0
         },
         {
           "rank": 5,
-          "game": "highway-hazards",
-          "name": "highway-hazards",
-          "area": "speed",
-          "areaName": "speed",
-          "improvement": 771,
+          "game": "skyrise",
+          "name": "skyrise",
+          "area": "attention",
+          "areaName": "attention",
+          "improvement": 805,
           "playCount": 0
         }
       ]
@@ -896,7 +896,7 @@
     "streaks": {
       "current": 1,
       "best": 11,
-      "total": 17,
+      "total": 18,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -914,8 +914,8 @@
         "14": false,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -933,21 +933,21 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 5,
+        "daysPlayed": 6,
         "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "futureDays": 12,
+        "completionRate": "33%"
       }
     },
     "percentiles": {
-      "overall": 49.8,
+      "overall": 55.4,
       "best": 60.4,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": "42.9%",
+          "current": "48.5%",
           "best": "undefined%"
         },
         "attention": {
@@ -957,12 +957,12 @@
         },
         "memory": {
           "name": "memory",
-          "current": "35.2%",
+          "current": "46.3%",
           "best": "undefined%"
         },
         "speed": {
           "name": "speed",
-          "current": "47.3%",
+          "current": "55.8%",
           "best": "undefined%"
         },
         "problem-solving": {
@@ -1032,7 +1032,7 @@
     "accountInfo": {
       "email": "addykr113@gmail.com",
       "study": "first",
-      "extractedAt": "2025-11-17T04:10:01.397Z"
+      "extractedAt": "2025-11-18T05:06:39.555Z"
     },
     "summary": {
       "user": "K R ADITI ",
@@ -1041,20 +1041,20 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1218,
+      "overall": 1220,
       "best": 1235,
       "first": 626,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": 1181,
+          "current": 1189,
           "first": 425,
           "best": 1214,
           "improvement": 789
         },
         "attention": {
           "name": "attention",
-          "current": 1212,
+          "current": 1207,
           "first": 208,
           "best": 1248,
           "improvement": 1040
@@ -1082,7 +1082,7 @@
         },
         "math": {
           "name": "math",
-          "current": 661,
+          "current": 654,
           "first": 228,
           "best": 859,
           "improvement": 631
@@ -1113,21 +1113,21 @@
         },
         {
           "rank": 3,
-          "game": "lost-in-migration",
-          "name": "lost-in-migration",
-          "area": "attention",
-          "areaName": "attention",
-          "lpi": 1617,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
-          "rank": 4,
           "game": "cognition-kitchen",
           "name": "cognition-kitchen",
           "area": "memory",
           "areaName": "memory",
           "lpi": 1601,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 4,
+          "game": "lost-in-migration",
+          "name": "lost-in-migration",
+          "area": "attention",
+          "areaName": "attention",
+          "lpi": 1595,
           "playCount": 0,
           "improvement": 0
         },
@@ -1167,7 +1167,7 @@
           "name": "skyrise",
           "area": "attention",
           "areaName": "attention",
-          "lpi": 1124,
+          "lpi": 1129,
           "playCount": 0,
           "improvement": 0
         },
@@ -1187,7 +1187,7 @@
           "name": "ebb-and-flow",
           "area": "flexibility",
           "areaName": "flexibility",
-          "lpi": 1026,
+          "lpi": 1042,
           "playCount": 0,
           "improvement": 0
         }
@@ -1208,7 +1208,7 @@
           "name": "lost-in-migration",
           "area": "attention",
           "areaName": "attention",
-          "improvement": 1225,
+          "improvement": 1203,
           "playCount": 0
         },
         {
@@ -1241,9 +1241,9 @@
       ]
     },
     "streaks": {
-      "current": 6,
+      "current": 1,
       "best": 12,
-      "total": 14,
+      "total": 15,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -1261,8 +1261,8 @@
         "14": false,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -1280,26 +1280,26 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 6,
+        "daysPlayed": 7,
         "daysMissed": 11,
-        "futureDays": 13,
-        "completionRate": "35%"
+        "futureDays": 12,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
-      "overall": 74.2,
+      "overall": 74.4,
       "best": 75.7,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": "68.5%",
+          "current": "69.1%",
           "best": "undefined%"
         },
         "attention": {
           "name": "attention",
-          "current": "70.3%",
+          "current": "69.8%",
           "best": "undefined%"
         },
         "memory": {
@@ -1319,7 +1319,7 @@
         },
         "math": {
           "name": "math",
-          "current": "32.4%",
+          "current": "31.8%",
           "best": "undefined%"
         }
       }
@@ -1379,7 +1379,7 @@
     "accountInfo": {
       "email": "Vakadheeren95@gmail.com",
       "study": "first",
-      "extractedAt": "2025-11-17T04:10:01.882Z"
+      "extractedAt": "2025-11-18T05:06:40.124Z"
     },
     "summary": {
       "user": "Vaka",
@@ -1388,20 +1388,20 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1132,
+      "overall": 1147,
       "best": 1180,
       "first": 617,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": 1112,
+          "current": 1134,
           "first": 364,
           "best": 1242,
           "improvement": 878
         },
         "attention": {
           "name": "attention",
-          "current": 936,
+          "current": 989,
           "first": 265,
           "best": 1142,
           "improvement": 877
@@ -1415,14 +1415,14 @@
         },
         "speed": {
           "name": "speed",
-          "current": 1343,
+          "current": 1344,
           "first": 504,
           "best": 1353,
           "improvement": 849
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": 1226,
+          "current": 1228,
           "first": 231,
           "best": 1298,
           "improvement": 1067
@@ -1440,21 +1440,21 @@
       "topGames": [
         {
           "rank": 1,
-          "game": "masterpiece",
-          "name": "masterpiece",
-          "area": "problem-solving",
-          "areaName": "problem-solving",
-          "lpi": 1793,
+          "game": "robot-factory",
+          "name": "robot-factory",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "lpi": 1807,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 2,
-          "game": "robot-factory",
-          "name": "robot-factory",
-          "area": "flexibility",
-          "areaName": "flexibility",
-          "lpi": 1751,
+          "game": "masterpiece",
+          "name": "masterpiece",
+          "area": "problem-solving",
+          "areaName": "problem-solving",
+          "lpi": 1798,
           "playCount": 0,
           "improvement": 0
         },
@@ -1464,7 +1464,7 @@
           "name": "highway-hazards",
           "area": "speed",
           "areaName": "speed",
-          "lpi": 1732,
+          "lpi": 1736,
           "playCount": 0,
           "improvement": 0
         },
@@ -1504,7 +1504,7 @@
           "name": "lost-in-migration",
           "area": "attention",
           "areaName": "attention",
-          "lpi": 1222,
+          "lpi": 1232,
           "playCount": 0,
           "improvement": 0
         },
@@ -1530,11 +1530,11 @@
         },
         {
           "rank": 10,
-          "game": "familiar-faces",
-          "name": "familiar-faces",
-          "area": "memory",
-          "areaName": "memory",
-          "lpi": 882,
+          "game": "skyrise",
+          "name": "skyrise",
+          "area": "attention",
+          "areaName": "attention",
+          "lpi": 896,
           "playCount": 0,
           "improvement": 0
         }
@@ -1546,7 +1546,7 @@
           "name": "masterpiece",
           "area": "problem-solving",
           "areaName": "problem-solving",
-          "improvement": 1267,
+          "improvement": 1272,
           "playCount": 0
         },
         {
@@ -1555,7 +1555,7 @@
           "name": "highway-hazards",
           "area": "speed",
           "areaName": "speed",
-          "improvement": 1228,
+          "improvement": 1232,
           "playCount": 0
         },
         {
@@ -1582,15 +1582,15 @@
           "name": "robot-factory",
           "area": "flexibility",
           "areaName": "flexibility",
-          "improvement": 709,
+          "improvement": 765,
           "playCount": 0
         }
       ]
     },
     "streaks": {
-      "current": 5,
+      "current": 1,
       "best": 11,
-      "total": 16,
+      "total": 17,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -1608,8 +1608,8 @@
         "14": false,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -1627,26 +1627,26 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 5,
+        "daysPlayed": 6,
         "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "futureDays": 12,
+        "completionRate": "33%"
       }
     },
     "percentiles": {
-      "overall": 66.3,
+      "overall": 67.7,
       "best": 70.7,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": "62.9%",
+          "current": "64.8%",
           "best": "undefined%"
         },
         "attention": {
           "name": "attention",
-          "current": "43.9%",
+          "current": "49%",
           "best": "undefined%"
         },
         "memory": {
@@ -1661,7 +1661,7 @@
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": "82.1%",
+          "current": "82.2%",
           "best": "undefined%"
         },
         "math": {
@@ -1726,7 +1726,7 @@
     "accountInfo": {
       "email": "jayasravan29@gmail.com",
       "study": "first",
-      "extractedAt": "2025-11-17T04:10:01.829Z"
+      "extractedAt": "2025-11-18T05:06:40.671Z"
     },
     "summary": {
       "user": "Sravan",
@@ -1735,8 +1735,8 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1440,
-      "best": 1443,
+      "overall": 1444,
+      "best": 1444,
       "first": 589,
       "byArea": {
         "flexibility": {
@@ -1769,10 +1769,10 @@
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": 1401,
+          "current": 1418,
           "first": 324,
-          "best": 1402,
-          "improvement": 1078
+          "best": 1418,
+          "improvement": 1094
         },
         "math": {
           "name": "math",
@@ -1937,7 +1937,7 @@
     "streaks": {
       "current": 1,
       "best": 6,
-      "total": 23,
+      "total": 24,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -1955,8 +1955,8 @@
         "14": true,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -1974,17 +1974,17 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 5,
+        "daysPlayed": 6,
         "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "futureDays": 12,
+        "completionRate": "33%"
       }
     },
     "percentiles": {
-      "overall": 90.9,
-      "best": 91.1,
+      "overall": 91.2,
+      "best": 91.2,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
@@ -2008,7 +2008,7 @@
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": "90.9%",
+          "current": "91.6%",
           "best": "undefined%"
         },
         "math": {
@@ -2073,7 +2073,7 @@
     "accountInfo": {
       "email": "bandisaivarnith@iacg.edu.in",
       "study": "first",
-      "extractedAt": "2025-11-17T04:10:30.849Z"
+      "extractedAt": "2025-11-18T05:07:09.598Z"
     },
     "summary": {
       "user": "Bandi Sai Varnith",
@@ -2082,23 +2082,23 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1411,
-      "best": 1411,
+      "overall": 1418,
+      "best": 1418,
       "first": 1006,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": 1392,
+          "current": 1421,
           "first": 920,
           "best": 1427,
           "improvement": 507
         },
         "attention": {
           "name": "attention",
-          "current": 1520,
+          "current": 1529,
           "first": 478,
-          "best": 1520,
-          "improvement": 1042
+          "best": 1529,
+          "improvement": 1051
         },
         "memory": {
           "name": "memory",
@@ -2109,7 +2109,7 @@
         },
         "speed": {
           "name": "speed",
-          "current": 1300,
+          "current": 1302,
           "first": 848,
           "best": 1501,
           "improvement": 653
@@ -2134,21 +2134,21 @@
       "topGames": [
         {
           "rank": 1,
-          "game": "highway-hazards",
-          "name": "highway-hazards",
-          "area": "speed",
-          "areaName": "speed",
-          "lpi": 1770,
+          "game": "robot-factory",
+          "name": "robot-factory",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "lpi": 1827,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 2,
-          "game": "robot-factory",
-          "name": "robot-factory",
-          "area": "flexibility",
-          "areaName": "flexibility",
-          "lpi": 1758,
+          "game": "highway-hazards",
+          "name": "highway-hazards",
+          "area": "speed",
+          "areaName": "speed",
+          "lpi": 1776,
           "playCount": 0,
           "improvement": 0
         },
@@ -2168,7 +2168,7 @@
           "name": "lost-in-migration",
           "area": "attention",
           "areaName": "attention",
-          "lpi": 1605,
+          "lpi": 1552,
           "playCount": 0,
           "improvement": 0
         },
@@ -2178,7 +2178,7 @@
           "name": "skyrise",
           "area": "attention",
           "areaName": "attention",
-          "lpi": 1525,
+          "lpi": 1507,
           "playCount": 0,
           "improvement": 0
         },
@@ -2194,21 +2194,21 @@
         },
         {
           "rank": 7,
-          "game": "memory-matrix",
-          "name": "memory-matrix",
-          "area": "memory",
-          "areaName": "memory",
-          "lpi": 1433,
+          "game": "train-of-thought",
+          "name": "train-of-thought",
+          "area": "attention",
+          "areaName": "attention",
+          "lpi": 1463,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 8,
-          "game": "train-of-thought",
-          "name": "train-of-thought",
-          "area": "attention",
-          "areaName": "attention",
-          "lpi": 1378,
+          "game": "memory-matrix",
+          "name": "memory-matrix",
+          "area": "memory",
+          "areaName": "memory",
+          "lpi": 1433,
           "playCount": 0,
           "improvement": 0
         },
@@ -2240,11 +2240,20 @@
           "name": "skyrise",
           "area": "attention",
           "areaName": "attention",
-          "improvement": 1122,
+          "improvement": 1104,
           "playCount": 0
         },
         {
           "rank": 2,
+          "game": "train-of-thought",
+          "name": "train-of-thought",
+          "area": "attention",
+          "areaName": "attention",
+          "improvement": 985,
+          "playCount": 0
+        },
+        {
+          "rank": 3,
           "game": "assist-ants",
           "name": "assist-ants",
           "area": "attention",
@@ -2253,38 +2262,29 @@
           "playCount": 0
         },
         {
-          "rank": 3,
+          "rank": 4,
           "game": "highway-hazards",
           "name": "highway-hazards",
           "area": "speed",
           "areaName": "speed",
-          "improvement": 922,
+          "improvement": 928,
           "playCount": 0
         },
         {
-          "rank": 4,
+          "rank": 5,
           "game": "pet-detective",
           "name": "pet-detective",
           "area": "problem-solving",
           "areaName": "problem-solving",
           "improvement": 905,
           "playCount": 0
-        },
-        {
-          "rank": 5,
-          "game": "train-of-thought",
-          "name": "train-of-thought",
-          "area": "attention",
-          "areaName": "attention",
-          "improvement": 900,
-          "playCount": 0
         }
       ]
     },
     "streaks": {
-      "current": 5,
+      "current": 1,
       "best": 14,
-      "total": 15,
+      "total": 16,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -2302,8 +2302,8 @@
         "14": false,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -2321,26 +2321,26 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 5,
+        "daysPlayed": 6,
         "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "futureDays": 12,
+        "completionRate": "33%"
       }
     },
     "percentiles": {
-      "overall": 89.1,
-      "best": 89.1,
+      "overall": 89.6,
+      "best": 89.6,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": "83.4%",
+          "current": "85.2%",
           "best": "undefined%"
         },
         "attention": {
           "name": "attention",
-          "current": "93.3%",
+          "current": "93.7%",
           "best": "undefined%"
         },
         "memory": {
@@ -2350,7 +2350,7 @@
         },
         "speed": {
           "name": "speed",
-          "current": "75.6%",
+          "current": "75.8%",
           "best": "undefined%"
         },
         "problem-solving": {
@@ -2420,7 +2420,7 @@
     "accountInfo": {
       "email": "karthikeyad136@gmail.com",
       "study": "second",
-      "extractedAt": "2025-11-17T04:10:31.200Z"
+      "extractedAt": "2025-11-18T05:07:08.906Z"
     },
     "summary": {
       "user": "Karthikeya",
@@ -2650,7 +2650,7 @@
         "15": true,
         "16": false,
         "17": false,
-        "18": null,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -2668,12 +2668,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
         "daysPlayed": 10,
-        "daysMissed": 7,
-        "futureDays": 13,
-        "completionRate": "59%"
+        "daysMissed": 8,
+        "futureDays": 12,
+        "completionRate": "56%"
       }
     },
     "percentiles": {
@@ -2767,7 +2767,7 @@
     "accountInfo": {
       "email": "adarshgaikwad0728@gmail.com",
       "study": "second",
-      "extractedAt": "2025-11-17T04:10:31.198Z"
+      "extractedAt": "2025-11-18T05:07:09.066Z"
     },
     "summary": {
       "user": "Adarsh",
@@ -2997,7 +2997,7 @@
         "15": false,
         "16": false,
         "17": false,
-        "18": null,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -3015,12 +3015,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
         "daysPlayed": 2,
-        "daysMissed": 15,
-        "futureDays": 13,
-        "completionRate": "12%"
+        "daysMissed": 16,
+        "futureDays": 12,
+        "completionRate": "11%"
       }
     },
     "percentiles": {
@@ -3114,7 +3114,7 @@
     "accountInfo": {
       "email": "srisaikarthik@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:00.523Z"
+      "extractedAt": "2025-11-18T05:07:39.307Z"
     },
     "summary": {
       "user": "SATHAVALLI SRI SAI KARTHIK",
@@ -3344,7 +3344,7 @@
         "15": false,
         "16": false,
         "17": false,
-        "18": null,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -3362,12 +3362,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
         "daysPlayed": 10,
-        "daysMissed": 7,
-        "futureDays": 13,
-        "completionRate": "59%"
+        "daysMissed": 8,
+        "futureDays": 12,
+        "completionRate": "56%"
       }
     },
     "percentiles": {
@@ -3461,7 +3461,7 @@
     "accountInfo": {
       "email": "johnabhishay@gmail.com",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:01.426Z"
+      "extractedAt": "2025-11-18T05:07:40.264Z"
     },
     "summary": {
       "user": "John",
@@ -3511,7 +3511,7 @@
         },
         "math": {
           "name": "math",
-          "current": 621,
+          "current": 604,
           "first": 392,
           "best": 832,
           "improvement": 440
@@ -3670,9 +3670,9 @@
       ]
     },
     "streaks": {
-      "current": 3,
+      "current": 1,
       "best": 6,
-      "total": 22,
+      "total": 23,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -3690,8 +3690,8 @@
         "14": false,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -3709,12 +3709,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 5,
+        "daysPlayed": 6,
         "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "futureDays": 12,
+        "completionRate": "33%"
       }
     },
     "percentiles": {
@@ -3748,7 +3748,7 @@
         },
         "math": {
           "name": "math",
-          "current": "29.5%",
+          "current": "28.4%",
           "best": "undefined%"
         }
       }
@@ -3808,7 +3808,7 @@
     "accountInfo": {
       "email": "gmaneeshrao@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:01.024Z"
+      "extractedAt": "2025-11-18T05:07:39.704Z"
     },
     "summary": {
       "user": "GOURAVARAM MANEESH RAO",
@@ -3817,13 +3817,13 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1040,
+      "overall": 1052,
       "best": 1154,
       "first": 676,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": 1091,
+          "current": 1161,
           "first": 928,
           "best": 1243,
           "improvement": 315
@@ -3869,6 +3869,16 @@
       "topGames": [
         {
           "rank": 1,
+          "game": "space-trace",
+          "name": "space-trace",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "lpi": 1736,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 2,
           "game": "follow-that-frog",
           "name": "follow-that-frog",
           "area": "memory",
@@ -3878,7 +3888,7 @@
           "improvement": 0
         },
         {
-          "rank": 2,
+          "rank": 3,
           "game": "highway-hazards",
           "name": "highway-hazards",
           "area": "speed",
@@ -3888,7 +3898,7 @@
           "improvement": 0
         },
         {
-          "rank": 3,
+          "rank": 4,
           "game": "color-match",
           "name": "color-match",
           "area": "flexibility",
@@ -3898,7 +3908,7 @@
           "improvement": 0
         },
         {
-          "rank": 4,
+          "rank": 5,
           "game": "penguin-rally",
           "name": "penguin-rally",
           "area": "speed",
@@ -3908,7 +3918,7 @@
           "improvement": 0
         },
         {
-          "rank": 5,
+          "rank": 6,
           "game": "top-that",
           "name": "top-that",
           "area": "math",
@@ -3918,7 +3928,7 @@
           "improvement": 0
         },
         {
-          "rank": 6,
+          "rank": 7,
           "game": "pinball-recall",
           "name": "pinball-recall",
           "area": "memory",
@@ -3928,7 +3938,7 @@
           "improvement": 0
         },
         {
-          "rank": 7,
+          "rank": 8,
           "game": "memory-serves",
           "name": "memory-serves",
           "area": "memory",
@@ -3938,7 +3948,7 @@
           "improvement": 0
         },
         {
-          "rank": 8,
+          "rank": 9,
           "game": "trouble-brewing",
           "name": "trouble-brewing",
           "area": "attention",
@@ -3948,7 +3958,7 @@
           "improvement": 0
         },
         {
-          "rank": 9,
+          "rank": 10,
           "game": "tidal-treasures",
           "name": "tidal-treasures",
           "area": "memory",
@@ -3956,21 +3966,20 @@
           "lpi": 1164,
           "playCount": 0,
           "improvement": 0
-        },
-        {
-          "rank": 10,
-          "game": "pirate-passage",
-          "name": "pirate-passage",
-          "area": "problem-solving",
-          "areaName": "problem-solving",
-          "lpi": 1162,
-          "playCount": 0,
-          "improvement": 0
         }
       ],
       "mostImproved": [
         {
           "rank": 1,
+          "game": "space-trace",
+          "name": "space-trace",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "improvement": 1357,
+          "playCount": 0
+        },
+        {
+          "rank": 2,
           "game": "memory-serves",
           "name": "memory-serves",
           "area": "memory",
@@ -3979,7 +3988,7 @@
           "playCount": 0
         },
         {
-          "rank": 2,
+          "rank": 3,
           "game": "tidal-treasures",
           "name": "tidal-treasures",
           "area": "memory",
@@ -3988,7 +3997,7 @@
           "playCount": 0
         },
         {
-          "rank": 3,
+          "rank": 4,
           "game": "pinball-recall",
           "name": "pinball-recall",
           "area": "memory",
@@ -3997,29 +4006,20 @@
           "playCount": 0
         },
         {
-          "rank": 4,
+          "rank": 5,
           "game": "pirate-passage",
           "name": "pirate-passage",
           "area": "problem-solving",
           "areaName": "problem-solving",
           "improvement": 792,
           "playCount": 0
-        },
-        {
-          "rank": 5,
-          "game": "train-of-thought",
-          "name": "train-of-thought",
-          "area": "attention",
-          "areaName": "attention",
-          "improvement": 783,
-          "playCount": 0
         }
       ]
     },
     "streaks": {
-      "current": 3,
+      "current": 1,
       "best": 4,
-      "total": 22,
+      "total": 23,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -4037,8 +4037,8 @@
         "14": false,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -4056,21 +4056,21 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 6,
+        "daysPlayed": 7,
         "daysMissed": 11,
-        "futureDays": 13,
-        "completionRate": "35%"
+        "futureDays": 12,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
-      "overall": 57.4,
+      "overall": 58.5,
       "best": 68.4,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": "61.3%",
+          "current": "66.8%",
           "best": "undefined%"
         },
         "attention": {
@@ -4155,7 +4155,7 @@
     "accountInfo": {
       "email": "syedarman@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:29.863Z"
+      "extractedAt": "2025-11-18T05:08:10.001Z"
     },
     "summary": {
       "user": "SYED ARMAN",
@@ -4385,7 +4385,7 @@
         "15": false,
         "16": true,
         "17": false,
-        "18": null,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -4403,12 +4403,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
         "daysPlayed": 5,
-        "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "daysMissed": 13,
+        "futureDays": 12,
+        "completionRate": "28%"
       }
     },
     "percentiles": {
@@ -4532,7 +4532,7 @@
     "accountInfo": {
       "email": "stanushraj2@gmail.com",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:30.529Z"
+      "extractedAt": "2025-11-18T05:08:09.688Z"
     },
     "summary": {
       "user": "S. Tanush",
@@ -4762,7 +4762,7 @@
         "15": false,
         "16": false,
         "17": false,
-        "18": null,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -4780,12 +4780,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
         "daysPlayed": 7,
-        "daysMissed": 10,
-        "futureDays": 13,
-        "completionRate": "41%"
+        "daysMissed": 11,
+        "futureDays": 12,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
@@ -4879,7 +4879,7 @@
     "accountInfo": {
       "email": "Bkeerthipriya@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:30.377Z"
+      "extractedAt": "2025-11-18T05:08:09.155Z"
     },
     "summary": {
       "user": "BHUCHAKRA KEERTHI PRIYA",
@@ -4888,8 +4888,8 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1049,
-      "best": 1062,
+      "overall": 1061,
+      "best": 1069,
       "first": 567,
       "byArea": {
         "flexibility": {
@@ -4922,14 +4922,14 @@
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": 908,
+          "current": 983,
           "first": 252,
-          "best": 1008,
-          "improvement": 756
+          "best": 1020,
+          "improvement": 768
         },
         "math": {
           "name": "math",
-          "current": 896,
+          "current": 942,
           "first": 336,
           "best": 947,
           "improvement": 611
@@ -5088,9 +5088,9 @@
       ]
     },
     "streaks": {
-      "current": 2,
+      "current": 1,
       "best": 5,
-      "total": 27,
+      "total": 28,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -5108,8 +5108,8 @@
         "14": true,
         "15": true,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -5127,17 +5127,17 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 8,
+        "daysPlayed": 9,
         "daysMissed": 9,
-        "futureDays": 13,
-        "completionRate": "47%"
+        "futureDays": 12,
+        "completionRate": "50%"
       }
     },
     "percentiles": {
-      "overall": 58.2,
-      "best": 59.5,
+      "overall": 59.4,
+      "best": 60.1,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
@@ -5161,12 +5161,12 @@
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": "60.6%",
+          "current": "66.2%",
           "best": "undefined%"
         },
         "math": {
           "name": "math",
-          "current": "48.9%",
+          "current": "52.1%",
           "best": "undefined%"
         }
       }
@@ -5226,7 +5226,7 @@
     "accountInfo": {
       "email": "knagasravani@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:58.798Z"
+      "extractedAt": "2025-11-18T05:08:38.639Z"
     },
     "summary": {
       "user": "KULKARNI NAGA SRAVANI",
@@ -5235,7 +5235,7 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1240,
+      "overall": 1258,
       "best": 1276,
       "first": 801,
       "byArea": {
@@ -5248,7 +5248,7 @@
         },
         "attention": {
           "name": "attention",
-          "current": 1169,
+          "current": 1235,
           "first": 658,
           "best": 1309,
           "improvement": 651
@@ -5367,21 +5367,21 @@
         },
         {
           "rank": 9,
-          "game": "penguin-rally",
-          "name": "penguin-rally",
-          "area": "speed",
-          "areaName": "speed",
-          "lpi": 1293,
+          "game": "lost-in-migration",
+          "name": "lost-in-migration",
+          "area": "attention",
+          "areaName": "attention",
+          "lpi": 1339,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 10,
-          "game": "pirate-passage",
-          "name": "pirate-passage",
-          "area": "problem-solving",
-          "areaName": "problem-solving",
-          "lpi": 1232,
+          "game": "penguin-rally",
+          "name": "penguin-rally",
+          "area": "speed",
+          "areaName": "speed",
+          "lpi": 1293,
           "playCount": 0,
           "improvement": 0
         }
@@ -5435,8 +5435,8 @@
       ]
     },
     "streaks": {
-      "current": 7,
-      "best": 7,
+      "current": 9,
+      "best": 9,
       "total": 25,
       "monthlyStreaks": {
         "1": false,
@@ -5455,8 +5455,8 @@
         "14": true,
         "15": true,
         "16": true,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": true,
         "19": null,
         "20": null,
         "21": null,
@@ -5474,16 +5474,16 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 11,
-        "daysMissed": 6,
-        "futureDays": 13,
-        "completionRate": "65%"
+        "daysPlayed": 13,
+        "daysMissed": 5,
+        "futureDays": 12,
+        "completionRate": "72%"
       }
     },
     "percentiles": {
-      "overall": 76.1,
+      "overall": 77.7,
       "best": 79.2,
       "byArea": {
         "flexibility": {
@@ -5493,7 +5493,7 @@
         },
         "attention": {
           "name": "attention",
-          "current": "66.2%",
+          "current": "72.5%",
           "best": "undefined%"
         },
         "memory": {
@@ -5573,7 +5573,7 @@
     "accountInfo": {
       "email": "syedosmanhussain@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:59.565Z"
+      "extractedAt": "2025-11-18T05:08:38.942Z"
     },
     "summary": {
       "user": "SYED OSMAN HUSSAIN",
@@ -5803,7 +5803,7 @@
         "15": true,
         "16": true,
         "17": true,
-        "18": null,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -5821,12 +5821,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
         "daysPlayed": 15,
-        "daysMissed": 2,
-        "futureDays": 13,
-        "completionRate": "88%"
+        "daysMissed": 3,
+        "futureDays": 12,
+        "completionRate": "83%"
       }
     },
     "percentiles": {
@@ -5950,7 +5950,7 @@
     "accountInfo": {
       "email": "srikarramagoni@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:11:59.665Z"
+      "extractedAt": "2025-11-18T05:08:39.109Z"
     },
     "summary": {
       "user": "SRIKAR RAMAGONI",
@@ -5959,7 +5959,7 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1413,
+      "overall": 1411,
       "best": 1413,
       "first": 838,
       "byArea": {
@@ -6091,21 +6091,21 @@
         },
         {
           "rank": 9,
-          "game": "disillusion",
-          "name": "disillusion",
-          "area": "flexibility",
-          "areaName": "flexibility",
-          "lpi": 1545,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
-          "rank": 10,
           "game": "trouble-brewing",
           "name": "trouble-brewing",
           "area": "attention",
           "areaName": "attention",
           "lpi": 1542,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 10,
+          "game": "disillusion",
+          "name": "disillusion",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "lpi": 1517,
           "playCount": 0,
           "improvement": 0
         }
@@ -6159,9 +6159,9 @@
       ]
     },
     "streaks": {
-      "current": 2,
+      "current": 1,
       "best": 6,
-      "total": 27,
+      "total": 28,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -6179,8 +6179,8 @@
         "14": false,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -6198,16 +6198,16 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 5,
+        "daysPlayed": 6,
         "daysMissed": 12,
-        "futureDays": 13,
-        "completionRate": "29%"
+        "futureDays": 12,
+        "completionRate": "33%"
       }
     },
     "percentiles": {
-      "overall": 89.3,
+      "overall": 89.1,
       "best": 89.3,
       "byArea": {
         "flexibility": {
@@ -6327,7 +6327,7 @@
     "accountInfo": {
       "email": "ksurajadithya@iacg.info",
       "study": "second",
-      "extractedAt": "2025-11-17T04:12:27.636Z"
+      "extractedAt": "2025-11-18T05:09:07.947Z"
     },
     "summary": {
       "user": "KONDA SURAJ ADITHYA",
@@ -6336,20 +6336,20 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 1003,
+      "overall": 1004,
       "best": 1045,
       "first": 406,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": 1017,
+          "current": 1008,
           "first": 249,
           "best": 1074,
           "improvement": 825
         },
         "attention": {
           "name": "attention",
-          "current": 902,
+          "current": 914,
           "first": 212,
           "best": 966,
           "improvement": 754
@@ -6363,14 +6363,14 @@
         },
         "speed": {
           "name": "speed",
-          "current": 1033,
+          "current": 1036,
           "first": 231,
           "best": 1037,
           "improvement": 806
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": 872,
+          "current": 876,
           "first": 380,
           "best": 974,
           "improvement": 594
@@ -6392,7 +6392,7 @@
           "name": "highway-hazards",
           "area": "speed",
           "areaName": "speed",
-          "lpi": 1683,
+          "lpi": 1698,
           "playCount": 0,
           "improvement": 0
         },
@@ -6442,22 +6442,12 @@
           "name": "color-match",
           "area": "flexibility",
           "areaName": "flexibility",
-          "lpi": 1217,
+          "lpi": 1215,
           "playCount": 0,
           "improvement": 0
         },
         {
           "rank": 7,
-          "game": "robot-factory",
-          "name": "robot-factory",
-          "area": "flexibility",
-          "areaName": "flexibility",
-          "lpi": 1179,
-          "playCount": 0,
-          "improvement": 0
-        },
-        {
-          "rank": 8,
           "game": "pet-detective",
           "name": "pet-detective",
           "area": "problem-solving",
@@ -6467,12 +6457,22 @@
           "improvement": 0
         },
         {
-          "rank": 9,
+          "rank": 8,
           "game": "organic-order",
           "name": "organic-order",
           "area": "problem-solving",
           "areaName": "problem-solving",
           "lpi": 1162,
+          "playCount": 0,
+          "improvement": 0
+        },
+        {
+          "rank": 9,
+          "game": "robot-factory",
+          "name": "robot-factory",
+          "area": "flexibility",
+          "areaName": "flexibility",
+          "lpi": 1152,
           "playCount": 0,
           "improvement": 0
         },
@@ -6494,7 +6494,7 @@
           "name": "highway-hazards",
           "area": "speed",
           "areaName": "speed",
-          "improvement": 1452,
+          "improvement": 1467,
           "playCount": 0
         },
         {
@@ -6521,7 +6521,7 @@
           "name": "color-match",
           "area": "flexibility",
           "areaName": "flexibility",
-          "improvement": 968,
+          "improvement": 966,
           "playCount": 0
         },
         {
@@ -6538,7 +6538,7 @@
     "streaks": {
       "current": 2,
       "best": 11,
-      "total": 31,
+      "total": 32,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -6556,8 +6556,8 @@
         "14": true,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": true,
         "19": null,
         "20": null,
         "21": null,
@@ -6575,26 +6575,26 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 9,
-        "daysMissed": 8,
-        "futureDays": 13,
-        "completionRate": "53%"
+        "daysPlayed": 11,
+        "daysMissed": 7,
+        "futureDays": 12,
+        "completionRate": "61%"
       }
     },
     "percentiles": {
-      "overall": 53.7,
+      "overall": 53.8,
       "best": 57.8,
       "byArea": {
         "flexibility": {
           "name": "flexibility",
-          "current": "55.3%",
+          "current": "54.6%",
           "best": "undefined%"
         },
         "attention": {
           "name": "attention",
-          "current": "41%",
+          "current": "42.1%",
           "best": "undefined%"
         },
         "memory": {
@@ -6604,12 +6604,12 @@
         },
         "speed": {
           "name": "speed",
-          "current": "53.6%",
+          "current": "53.8%",
           "best": "undefined%"
         },
         "problem-solving": {
           "name": "problem-solving",
-          "current": "57.8%",
+          "current": "58.2%",
           "best": "undefined%"
         },
         "math": {
@@ -6674,7 +6674,7 @@
     "accountInfo": {
       "email": "akshithanarra9@gamil.com",
       "study": "second",
-      "extractedAt": "2025-11-17T04:12:29.240Z"
+      "extractedAt": "2025-11-18T05:09:08.405Z"
     },
     "summary": {
       "user": "Akshitha",
@@ -6683,7 +6683,7 @@
       "ageCohort": "13-19"
     },
     "lpi": {
-      "overall": 463,
+      "overall": 462,
       "best": 475,
       "first": 307,
       "byArea": {
@@ -6703,7 +6703,7 @@
         },
         "memory": {
           "name": "memory",
-          "current": 446,
+          "current": 441,
           "first": 200,
           "best": 476,
           "improvement": 276
@@ -6717,10 +6717,10 @@
         },
         "speed": {
           "name": "speed",
-          "current": 344,
+          "current": 345,
           "first": 200,
-          "best": 344,
-          "improvement": 144
+          "best": 345,
+          "improvement": 145
         },
         "math": {
           "name": "math",
@@ -6738,7 +6738,7 @@
     "streaks": {
       "current": 1,
       "best": 4,
-      "total": 33,
+      "total": 34,
       "monthlyStreaks": {
         "1": false,
         "2": false,
@@ -6756,8 +6756,8 @@
         "14": true,
         "15": false,
         "16": false,
-        "17": false,
-        "18": null,
+        "17": true,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -6775,16 +6775,16 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
-        "daysPlayed": 6,
+        "daysPlayed": 7,
         "daysMissed": 11,
-        "futureDays": 13,
-        "completionRate": "35%"
+        "futureDays": 12,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
-      "overall": 7.4,
+      "overall": 7.3,
       "best": 8.1,
       "byArea": {
         "flexibility": {
@@ -6799,7 +6799,7 @@
         },
         "memory": {
           "name": "memory",
-          "current": "6.1%",
+          "current": "5.9%",
           "best": "undefined%"
         },
         "problem-solving": {
@@ -6874,7 +6874,7 @@
     "accountInfo": {
       "email": "Jaswanthkadiyam11@gmail.com",
       "study": "second",
-      "extractedAt": "2025-11-17T04:12:29.376Z"
+      "extractedAt": "2025-11-18T05:09:08.408Z"
     },
     "summary": {
       "user": "Jaswanrh",
@@ -7104,7 +7104,7 @@
         "15": false,
         "16": false,
         "17": true,
-        "18": null,
+        "18": false,
         "19": null,
         "20": null,
         "21": null,
@@ -7122,12 +7122,12 @@
         "year": 2025,
         "month": 11,
         "monthName": "November",
-        "today": 17,
+        "today": 18,
         "daysInMonth": 30,
         "daysPlayed": 7,
-        "daysMissed": 10,
-        "futureDays": 13,
-        "completionRate": "41%"
+        "daysMissed": 11,
+        "futureDays": 12,
+        "completionRate": "39%"
       }
     },
     "percentiles": {
